@@ -1,0 +1,66 @@
+name: 服务反馈或复测
+description: 记录用户体验、产物问题、功能建议或修复后的复测
+title: "[服务名] 简述问题或复测结果"
+body:
+  - type: dropdown
+    id: service
+    attributes:
+      label: 对应服务
+      options:
+        - video-service
+        - ppt-service
+        - scientific-agent
+        - openspec
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 反馈类型
+      options:
+        - 实际使用问题
+        - 产物质量评价
+        - 功能建议
+        - 修复声明
+        - 修复后复测
+    validations:
+      required: true
+  - type: input
+    id: reference
+    attributes:
+      label: 对应条目ID
+      description: 已有问题填写VID、PPT或SCI编号；新问题可留空。
+  - type: input
+    id: observed
+    attributes:
+      label: 观察日期及可见版本
+      description: 区分产物生成日期和实际评价日期，注明时区。
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 任务与操作步骤
+      description: 描述正常用户界面中的必要输入与操作。
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: 实际结果与证据
+      description: 写明页码、章节、提示或产物行为，提供必要的脱敏证据。
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 期望结果与验收条件
+    validations:
+      required: true
+  - type: textarea
+    id: boundary
+    attributes:
+      label: 已验证与未验证范围
+      description: 修复声明与实际复测分开；未读全文、未验证桌面编辑等限制请保留。
+    validations:
+      required: true
