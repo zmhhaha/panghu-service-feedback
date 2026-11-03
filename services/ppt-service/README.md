@@ -2,6 +2,8 @@
 
 服务：[ppt-service.panghuer.top](https://ppt-service.panghuer.top/)
 
+跟踪 Issue：[最新产物排版、版本辨识与内容改进 #2](https://github.com/zmhhaha/panghu-service-feedback/issues/2)
+
 最近一次实际体验：**2026年11月3日（北京时间）**。整理日期：2026年11月4日。本页描述最近一次体验发现的开放问题；历史失败和修复进展见 [history.md](history.md)。
 
 ## 普通用户结论

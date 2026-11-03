@@ -22,6 +22,16 @@
 
 完整列表见 **[反馈总表](FEEDBACK_INDEX.md)**。条目中有观察日期、影响、建议与验收条件；不必回看原始会话才能理解。
 
+## 跟踪 Issue
+
+| 服务 | 跟踪入口 | 范围 |
+|---|---|---|
+| 视频服务 | [#1 历史体验与音频提案复测](https://github.com/zmhhaha/panghu-service-feedback/issues/1) | VID-001～010，共10项；历史观察、产品建议与提案验收 |
+| PPT服务 | [#2 最新产物排版、版本辨识与内容改进](https://github.com/zmhhaha/panghu-service-feedback/issues/2) | 共7项；最新体验与历史待复测路径分别记录 |
+| 科研服务 | [#3 检索覆盖、需求保留、修订与导出](https://github.com/zmhhaha/panghu-service-feedback/issues/3) | SCI-008～018，共11项；SCI-001～007保留在历史修复记录 |
+
+维护者可在对应 Issue 中关联修复提交、部署版本及复测证据，再同步更新文档状态。
+
 ## 已经验证的进展
 
 - PPT：后续实际取得原生10页PPTX；2026-11-03已能查看网站标明的最终PPTX渲染预览。“无下载”和“无最终渲染预览”不再列为当前问题。

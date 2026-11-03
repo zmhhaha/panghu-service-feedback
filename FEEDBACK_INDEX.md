@@ -2,6 +2,8 @@
 
 整理日期：2026-11-04。状态按最近一次有依据的记录填写；“历史待复测”不能解释为当前必现故障。维护者可引用稳定ID登记修复，再按验收场景补充复测结果。
 
+跟踪入口：[视频 #1](https://github.com/zmhhaha/panghu-service-feedback/issues/1) · [PPT #2](https://github.com/zmhhaha/panghu-service-feedback/issues/2) · [科研 #3](https://github.com/zmhhaha/panghu-service-feedback/issues/3)。共28项待优化、建议或历史待复测条目，另保留已修复历史记录。
+
 ## 视频服务
 
 最近体验2026-10-30；本会话无后续实现验收。下列优先级沿用当时用户建议，MP4和TTS属于原首版之后的能力规划。
