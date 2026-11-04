@@ -8,7 +8,7 @@
 
 | 服务 | 最近一次实际体验 | 当前结论 | 评价入口 |
 |---|---|---|---|
-| [视频服务](https://video-service.panghuer.top/) | 2026-10-30 | 分镜、画面和素材导出可用；成片与音频为后续需求，未取得后续复测记录 | [视频评价与10项建议](services/video-service/README.md) |
+| [视频服务](https://video-service.panghuer.top/) | 2026-11-04 | 经图解简化后取得原生完整有声草稿，2:54、720p；渲染恢复、图解可读性仍需优化 | [视频评价与12项跟踪](services/video-service/README.md) · [11月4日实测](services/video-service/retest-2026-11-04.md) |
 | [PPT服务](https://ppt-service.panghuer.top/) | 2026-11-03 | 原生PPTX下载及最终渲染预览已可用；新版多页仍有断词、重叠和出框 | [最新评价](services/ppt-service/README.md) · [历史修复](services/ppt-service/history.md) |
 | [科研服务](https://scientific-agent.panghuer.top/) | 2026-11-04 | 原生生成、修订、定稿已走通；关键资料获取、需求保留、精炼与导出仍需优化 | [最新评价](services/scientific-agent/README.md) · [历史修复](services/scientific-agent/history.md) |
 | [OpenSpec](https://openspec.panghuer.top/) | 2026-10-30 | 已用于保存视频音频提案；没有独立、完整的服务评测 | [反馈渠道使用记录](services/openspec/README.md) |
@@ -18,7 +18,8 @@
 - **PPT排版：[PPT-UX-001](services/ppt-service/README.md#ppt-ux-001)**。最终PPTX渲染的第5、6、8页出现重叠或出框，第2、9页存在英文断词。验收应看最终PPTX，不能只看源SVG。
 - **科研需求保留：[SCI-010](services/scientific-agent/README.md#sci-010)**。确认方案指定的文件和问题在初稿中丢失；本次稿件通过修订补救，但还需验证产品能否自动保留要求。
 - **科研资料覆盖：[SCI-008](services/scientific-agent/README.md#sci-008)、[SCI-009](services/scientific-agent/README.md#sci-009)**。给出官方仓库仍未取得正文，首批复杂查询漏掉核心论文，需要使用者主动调整。
-- **视频音频闭环：[VID-008](services/video-service/README.md#vid-008)、[VID-009](services/video-service/README.md#vid-009)**。逐镜头配音、试听采用、音画字幕同步及有声MP4已记入OpenSpec，尚无实现验收记录。
+- **视频制作恢复：[VID-004](services/video-service/README.md#vid-004)**。11月4日首轮8图解、8配音成功，只有3个镜头MP4成功；第3镜直接重试仍失败，第3、4镜简化图解后恢复，但页面缺少具体原因和针对性恢复建议。
+- **视频图解可读性：[VID-012](services/video-service/README.md#vid-012)**。原生完整草稿中，连线穿过文字或无关卡片，部分关系标签拥挤，尾卡来源清晰停留过短。
 
 完整列表见 **[反馈总表](FEEDBACK_INDEX.md)**。条目中有观察日期、影响、建议与验收条件；不必回看原始会话才能理解。
 
@@ -26,7 +27,7 @@
 
 | 服务 | 跟踪入口 | 范围 |
 |---|---|---|
-| 视频服务 | [#1 历史体验与音频提案复测](https://github.com/zmhhaha/panghu-service-feedback/issues/1) | VID-001～010，共10项；历史观察、产品建议与提案验收 |
+| 视频服务 | [#1 DSH实测、渲染恢复与图解质量](https://github.com/zmhhaha/panghu-service-feedback/issues/1) | VID-001～012，共12项；11月4日复测、历史观察与产品建议 |
 | PPT服务 | [#2 最新产物排版、版本辨识与内容改进](https://github.com/zmhhaha/panghu-service-feedback/issues/2) | 共7项；最新体验与历史待复测路径分别记录 |
 | 科研服务 | [#3 检索覆盖、需求保留、修订与导出](https://github.com/zmhhaha/panghu-service-feedback/issues/3) | SCI-008～018，共11项；SCI-001～007保留在历史修复记录 |
 
@@ -37,7 +38,7 @@
 - PPT：后续实际取得原生10页PPTX；2026-11-03已能查看网站标明的最终PPTX渲染预览。“无下载”和“无最终渲染预览”不再列为当前问题。
 - 科研：旧证据可保留和下载；2026-11-04在未导入自写稿的情况下，完整完成原生写作、章节修订、采用、定稿及下载。
 - 科研引用：本次7篇实际引用的题名、作者、版本和摘要能对应原始摘要页。此项没有验证论文全文或软件实现。
-- 视频：站内画面生成、明确采用、素材导出已经完成。会话交付的MP4是外部合成，不能作为站内MP4导出成功的证据。
+- 视频：11月4日取得[原生完整有声MP4草稿](evidence/video-2026-11-04/DSH-architecture-native-draft.mp4)，8镜头、2:54、720p，站内播放至结束，全文件解码通过。第7镜局部改稿后只重生成该镜配音。正式导出和人工精确校时未完成；10月30日的外部合成MP4仍只作为历史交付记录。
 
 ## 如何使用本仓库
 

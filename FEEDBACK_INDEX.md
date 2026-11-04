@@ -2,24 +2,26 @@
 
 整理日期：2026-11-04。状态按最近一次有依据的记录填写；“历史待复测”不能解释为当前必现故障。维护者可引用稳定ID登记修复，再按验收场景补充复测结果。
 
-跟踪入口：[视频 #1](https://github.com/zmhhaha/panghu-service-feedback/issues/1) · [PPT #2](https://github.com/zmhhaha/panghu-service-feedback/issues/2) · [科研 #3](https://github.com/zmhhaha/panghu-service-feedback/issues/3)。共28项待优化、建议或历史待复测条目，另保留已修复历史记录。
+跟踪入口：[视频 #1](https://github.com/zmhhaha/panghu-service-feedback/issues/1) · [PPT #2](https://github.com/zmhhaha/panghu-service-feedback/issues/2) · [科研 #3](https://github.com/zmhhaha/panghu-service-feedback/issues/3)。共30项跟踪条目，包含部分复测通过、待优化、建议或历史待复测，另保留已修复历史记录。
 
 ## 视频服务
 
-最近体验2026-10-30；本会话无后续实现验收。下列优先级沿用当时用户建议，MP4和TTS属于原首版之后的能力规划。
+最近体验2026-11-04，详见[本次实测](services/video-service/retest-2026-11-04.md)。首轮24项中19项完成，8图解、8配音成功，3/8镜头草稿成功。简化失败图解后，11:02取得[原生完整有声草稿](evidence/video-2026-11-04/DSH-architecture-native-draft.mp4)，2:54、720p，全文件解码通过；正式导出与人工精确校时未完成。10月30日历史观察保留。
 
 | ID | 条目 | 优先级 | 状态 |
 |---|---|---|---|
-| [VID-001](services/video-service/README.md#vid-001) | 已采用镜头直接导出MP4 | P0 | 历史能力缺口，待复测 |
-| [VID-002](services/video-service/README.md#vid-002) | 多镜头连续操作版本冲突 | P0 | 历史观察，待复测 |
-| [VID-003](services/video-service/README.md#vid-003) | 批量生成、重试与采用 | P1 | 历史观察，待复测 |
-| [VID-004](services/video-service/README.md#vid-004) | 长任务进度和失败信息 | P1 | 历史观察，待复测 |
-| [VID-005](services/video-service/README.md#vid-005) | 输出尺寸等规格约束 | P1 | 历史观察，待复测 |
-| [VID-006](services/video-service/README.md#vid-006) | 预览与采用版本辨识 | P1 | 历史观察，待复测 |
-| [VID-007](services/video-service/README.md#vid-007) | 随讲解推进的架构动画 | P2 | 产品建议 |
-| [VID-008](services/video-service/README.md#vid-008) | 逐镜头配音、同步、预览、有声导出 | P1 | OpenSpec已提案，未验证实现 |
-| [VID-009](services/video-service/README.md#vid-009) | 音频版本与局部更新 | P1 | OpenSpec已提案，未验证实现 |
-| [VID-010](services/video-service/README.md#vid-010) | 背景音乐和基础混音 | P2 | 提案第二阶段 |
+| [VID-001](services/video-service/README.md#vid-001) | 已采用镜头直接导出MP4 | P0 | 原生完整有声草稿下载通过；正式导出未完成 |
+| [VID-002](services/video-service/README.md#vid-002) | 多镜头连续操作版本冲突 | P0 | 本次复现；草稿保留，恢复需额外操作 |
+| [VID-003](services/video-service/README.md#vid-003) | 批量生成、重试与采用 | P1 | 批量与集中采用通过；简化后单镜恢复有效 |
+| [VID-004](services/video-service/README.md#vid-004) | 长任务进度和失败信息 | P1 | 逐镜进度改善；失败诊断、整片子阶段进度待优化 |
+| [VID-005](services/video-service/README.md#vid-005) | 输出尺寸等规格约束 | P1 | 输入1080p、草稿720p；正式规格待验证 |
+| [VID-006](services/video-service/README.md#vid-006) | 预览与采用版本辨识 | P1 | 候选分离改善；草稿标识仍需优化 |
+| [VID-007](services/video-service/README.md#vid-007) | 随讲解推进的架构动画 | P2 | 动态、全片播放和顺序通过；人工精确同步未完成 |
+| [VID-008](services/video-service/README.md#vid-008) | 逐镜头配音、同步、预览、有声导出 | P1 | 完整有声草稿已取得；正式导出与精确校时未完成 |
+| [VID-009](services/video-service/README.md#vid-009) | 音频版本与局部更新 | P1 | 第7镜过期提示、局部重生成及采用已验证 |
+| [VID-010](services/video-service/README.md#vid-010) | 背景音乐和基础混音 | P2 | 功能建议；此次路径未见入口 |
+| [VID-011](services/video-service/README.md#vid-011) | 空镜头选择误报连接中断 | P1 | 11月4日实际观察，待优化 |
+| [VID-012](services/video-service/README.md#vid-012) | 连线避让、标签与尾卡可读性 | P1 | 线穿文字、标签拥挤、尾卡阅读时间不足 |
 
 ## PPT服务
 
@@ -57,6 +59,7 @@
 
 | 服务 | 历史问题 | 目前有依据的结论 |
 |---|---|---|
+| 视频 | 无逐镜配音、无原生MP4、无动态画面 | 11月4日实际取得完整有声动态MP4草稿；正式导出与人工精确校时未完成 |
 | PPT | 大方案输入上限及错误提示 | 用户报告修复；随后主流程实际生成、下载成功，未独立审计服务器配置 |
 | PPT | 相邻URL分隔导致阻塞 | 后续产物的两个来源链接独立完整；其他分隔符组合未复测 |
 | PPT | 无原生下载、无最终PPTX预览 | 后续分别实际验证可用；新版渲染质量另见PPT-UX-001 |
