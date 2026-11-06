@@ -8,11 +8,11 @@
 
 最近体验2026-11-06，详见[本次实测](services/video-service/retest-2026-11-06.md)。首批15项中13项成功，5图解、5配音成功，3/5镜头草稿成功；第1、4镜按具体失败提示简化图解后恢复，保留原配音。18:36取得[原生完整有声草稿](evidence/video-2026-11-06/DSH-runtime-cycle-native-draft.mp4)，2:41、720p/24fps，站内完整播放与全文件解码通过；正式导出、主观试听与人工精确校时未完成。[11月4日实测](services/video-service/retest-2026-11-04.md)和10月30日历史观察保留。
 
-同日另做一次题材与DSH无关的[晚间实测](services/video-service/retest-2026-11-06-https.md)：5镜中4镜成功，第3镜图解8节点9关系，单镜两次、整片一次校验失败，整片未取得；4段原生单镜草稿合计175秒、720p、解码通过。晚间新增长任务状态不更新（VID-014）与图解密度失败（VID-015）两项观察，并复现写操作静默409（VID-013）。
+同日另做一次题材与DSH无关的[晚间实测](services/video-service/retest-2026-11-06-https.md)：5镜中4镜成功，第3镜图解8节点9关系，单镜两次、整片一次校验失败，整片未取得；4段原生单镜草稿合计175秒、720p、解码通过。晚间新增长任务状态不更新（VID-014）与图解密度失败（VID-015）两项观察，并复现写操作静默409（VID-013）。**2026-11-07 服务更新后重跑同一项目：第3镜新图解去掉移动动画、关系9→7，单镜与整片一次通过，取得[204秒整片草稿](evidence/video-2026-11-07/https-journey-native-draft-v2.mp4)；第2镜合并节点后仍有标签重叠，第4、5镜排版未变。**
 
 | ID | 条目 | 优先级 | 状态 |
 |---|---|---|---|
-| [VID-001](services/video-service/README.md#vid-001) | 已采用镜头直接导出MP4 | P0 | 原生完整有声草稿下载通过；正式导出未完成 |
+| [VID-001](services/video-service/README.md#vid-001) | 已采用镜头直接导出MP4 | P0 | 11月7日取得204秒整片草稿；正式导出未完成 |
 | [VID-002](services/video-service/README.md#vid-002) | 多镜头连续操作版本冲突 | P0 | 本次复现；草稿保留，恢复需额外操作 |
 | [VID-003](services/video-service/README.md#vid-003) | 批量生成、重试与采用 | P1 | 15项制作与集中采用通过；第1、4镜简化后恢复 |
 | [VID-004](services/video-service/README.md#vid-004) | 长任务进度和失败信息 | P1 | 具体原因、子阶段及等待时间改善；自动图解仍需返工 |
@@ -26,7 +26,7 @@
 | [VID-012](services/video-service/README.md#vid-012) | 连线避让、标签与尾卡可读性 | P1 | 来源提前清楚并保留版本日期；完整URL丢失，流程与层级仍难读 |
 | [VID-013](services/video-service/README.md#vid-013) | 采用与渲染请求静默失败（409无提示） | P0 | 11月6日晚三次复现；需整页刷新才出现结果 |
 | [VID-014](services/video-service/README.md#vid-014) | 长任务在后台标签页期间状态不更新 | P1 | 11月6日晚复现；等待时间冻结，需手动重新读取 |
-| [VID-015](services/video-service/README.md#vid-015) | 图解元素密度超出渲染能力，失败不指向图元 | P1 | 11月6日晚复现；第3镜三次校验失败，简化请求无效 |
+| [VID-015](services/video-service/README.md#vid-015) | 图解元素密度超出渲染能力，失败不指向图元 | P1 | 11月7日重跑：生成更克制、去掉移动动画后通过；排版约束仍缺 |
 | [VID-016](services/video-service/README.md#vid-016) | 图解语法、素材通道与结论卡 | P1 | 11月6日晚提出；配套[写稿方法](services/video-service/authoring-guide.md) |
 
 ## PPT服务
