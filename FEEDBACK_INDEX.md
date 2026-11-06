@@ -2,7 +2,7 @@
 
 整理日期：2026-11-06。状态按最近一次有依据的记录填写；“历史待复测”不能解释为当前必现故障。维护者可引用稳定ID登记修复，再按验收场景补充复测结果。
 
-跟踪入口：[视频 #1](https://github.com/zmhhaha/panghu-service-feedback/issues/1) · [PPT #2](https://github.com/zmhhaha/panghu-service-feedback/issues/2) · [科研 #3](https://github.com/zmhhaha/panghu-service-feedback/issues/3)。共33项跟踪条目，包含部分复测通过、待优化、建议或历史待复测，另保留已修复历史记录。
+跟踪入口：[视频 #1](https://github.com/zmhhaha/panghu-service-feedback/issues/1) · [PPT #2](https://github.com/zmhhaha/panghu-service-feedback/issues/2) · [科研 #3](https://github.com/zmhhaha/panghu-service-feedback/issues/3)。共34项跟踪条目，包含部分复测通过、待优化、建议或历史待复测，另保留已修复历史记录。
 
 ## 视频服务
 
@@ -27,6 +27,7 @@
 | [VID-013](services/video-service/README.md#vid-013) | 采用与渲染请求静默失败（409无提示） | P0 | 11月6日晚三次复现；需整页刷新才出现结果 |
 | [VID-014](services/video-service/README.md#vid-014) | 长任务在后台标签页期间状态不更新 | P1 | 11月6日晚复现；等待时间冻结，需手动重新读取 |
 | [VID-015](services/video-service/README.md#vid-015) | 图解元素密度超出渲染能力，失败不指向图元 | P1 | 11月6日晚复现；第3镜三次校验失败，简化请求无效 |
+| [VID-016](services/video-service/README.md#vid-016) | 图解语法、素材通道与结论卡 | P1 | 11月6日晚提出；配套[写稿方法](services/video-service/authoring-guide.md) |
 
 ## PPT服务
 

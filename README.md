@@ -29,7 +29,7 @@
 
 | 服务 | 跟踪入口 | 范围 |
 |---|---|---|
-| 视频服务 | [#1 DSH实测、渲染恢复与图解质量](https://github.com/zmhhaha/panghu-service-feedback/issues/1) | VID-001～015，共15项；11月6日两次实测（DSH运行循环、HTTPS请求旅程）、11月4日复测与历史观察 |
+| 视频服务 | [#1 DSH实测、渲染恢复与图解质量](https://github.com/zmhhaha/panghu-service-feedback/issues/1) | VID-001～016，共16项；11月6日两次实测（DSH运行循环、HTTPS请求旅程）、11月4日复测与历史观察 |
 | PPT服务 | [#2 最新产物排版、版本辨识与内容改进](https://github.com/zmhhaha/panghu-service-feedback/issues/2) | 共7项；最新体验与历史待复测路径分别记录 |
 | 科研服务 | [#3 检索覆盖、需求保留、修订与导出](https://github.com/zmhhaha/panghu-service-feedback/issues/3) | SCI-008～018，共11项；SCI-001～007保留在历史修复记录 |
 
