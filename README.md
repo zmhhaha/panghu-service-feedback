@@ -1,6 +1,6 @@
 # Panghu 服务用户反馈
 
-集中整理 **2026-10-30～2026-11-04** 同一次使用会话中，对视频、PPT、科研服务的真实体验、产物评价和优化建议。由用户授权整理发布，供各服务维护者直接阅读和跟踪。
+集中整理 **2026-10-30～2026-11-06** 同一次使用会话中，对视频、PPT、科研服务的真实体验、产物评价和优化建议。由用户授权整理发布，供各服务维护者直接阅读和跟踪。
 
 **这里同时保留问题和已经验证的改善。历史失败不代表当前仍失败，提案通过也不代表功能已实现。**
 
@@ -8,7 +8,7 @@
 
 | 服务 | 最近一次实际体验 | 当前结论 | 评价入口 |
 |---|---|---|---|
-| [视频服务](https://video-service.panghuer.top/) | 2026-11-04 | 经图解简化后取得原生完整有声草稿，2:54、720p；渲染恢复、图解可读性仍需优化 | [视频评价与12项跟踪](services/video-service/README.md) · [11月4日实测](services/video-service/retest-2026-11-04.md) |
+| [视频服务](https://video-service.panghuer.top/) | 2026-11-06 | 再次取得原生有声草稿，2:41、720p；诊断、进度与版本标识改善，图解返工和跨镜冲突仍存在 | [视频评价与12项跟踪](services/video-service/README.md) · [11月6日实测](services/video-service/retest-2026-11-06.md) |
 | [PPT服务](https://ppt-service.panghuer.top/) | 2026-11-03 | 原生PPTX下载及最终渲染预览已可用；新版多页仍有断词、重叠和出框 | [最新评价](services/ppt-service/README.md) · [历史修复](services/ppt-service/history.md) |
 | [科研服务](https://scientific-agent.panghuer.top/) | 2026-11-04 | 原生生成、修订、定稿已走通；关键资料获取、需求保留、精炼与导出仍需优化 | [最新评价](services/scientific-agent/README.md) · [历史修复](services/scientific-agent/history.md) |
 | [OpenSpec](https://openspec.panghuer.top/) | 2026-10-30 | 已用于保存视频音频提案；没有独立、完整的服务评测 | [反馈渠道使用记录](services/openspec/README.md) |
@@ -18,8 +18,8 @@
 - **PPT排版：[PPT-UX-001](services/ppt-service/README.md#ppt-ux-001)**。最终PPTX渲染的第5、6、8页出现重叠或出框，第2、9页存在英文断词。验收应看最终PPTX，不能只看源SVG。
 - **科研需求保留：[SCI-010](services/scientific-agent/README.md#sci-010)**。确认方案指定的文件和问题在初稿中丢失；本次稿件通过修订补救，但还需验证产品能否自动保留要求。
 - **科研资料覆盖：[SCI-008](services/scientific-agent/README.md#sci-008)、[SCI-009](services/scientific-agent/README.md#sci-009)**。给出官方仓库仍未取得正文，首批复杂查询漏掉核心论文，需要使用者主动调整。
-- **视频制作恢复：[VID-004](services/video-service/README.md#vid-004)**。11月4日首轮8图解、8配音成功，只有3个镜头MP4成功；第3镜直接重试仍失败，第3、4镜简化图解后恢复，但页面缺少具体原因和针对性恢复建议。
-- **视频图解可读性：[VID-012](services/video-service/README.md#vid-012)**。原生完整草稿中，连线穿过文字或无关卡片，部分关系标签拥挤，尾卡来源清晰停留过短。
+- **视频制作恢复：[VID-004](services/video-service/README.md#vid-004)**。11月6日首批15项中13项成功，3/5镜头草稿成功；失败原因已明确为文字超区、关系过密，简化图解后恢复。仍需让自动生成的方案直接满足渲染限制，减少用户返工。
+- **视频图解可读性：[VID-012](services/video-service/README.md#vid-012)**。最新草稿的流程折返、标签拥挤、包含关系不直观；来源已提前出现且保留版本日期，但完整URL丢失。跨镜更新冲突亦再次复现，见[VID-002](services/video-service/README.md#vid-002)。
 
 完整列表见 **[反馈总表](FEEDBACK_INDEX.md)**。条目中有观察日期、影响、建议与验收条件；不必回看原始会话才能理解。
 
@@ -27,7 +27,7 @@
 
 | 服务 | 跟踪入口 | 范围 |
 |---|---|---|
-| 视频服务 | [#1 DSH实测、渲染恢复与图解质量](https://github.com/zmhhaha/panghu-service-feedback/issues/1) | VID-001～012，共12项；11月4日复测、历史观察与产品建议 |
+| 视频服务 | [#1 DSH实测、渲染恢复与图解质量](https://github.com/zmhhaha/panghu-service-feedback/issues/1) | VID-001～012，共12项；11月6日及11月4日复测、历史观察与产品建议 |
 | PPT服务 | [#2 最新产物排版、版本辨识与内容改进](https://github.com/zmhhaha/panghu-service-feedback/issues/2) | 共7项；最新体验与历史待复测路径分别记录 |
 | 科研服务 | [#3 检索覆盖、需求保留、修订与导出](https://github.com/zmhhaha/panghu-service-feedback/issues/3) | SCI-008～018，共11项；SCI-001～007保留在历史修复记录 |
 
@@ -39,6 +39,7 @@
 - 科研：旧证据可保留和下载；2026-11-04在未导入自写稿的情况下，完整完成原生写作、章节修订、采用、定稿及下载。
 - 科研引用：本次7篇实际引用的题名、作者、版本和摘要能对应原始摘要页。此项没有验证论文全文或软件实现。
 - 视频：11月4日取得[原生完整有声MP4草稿](evidence/video-2026-11-04/DSH-architecture-native-draft.mp4)，8镜头、2:54、720p，站内播放至结束，全文件解码通过。第7镜局部改稿后只重生成该镜配音。正式导出和人工精确校时未完成；10月30日的外部合成MP4仍只作为历史交付记录。
+- 视频：11月6日再次取得[原生完整有声MP4草稿](evidence/video-2026-11-06/DSH-runtime-cycle-native-draft.mp4)，5镜头、2:41、720p，全文件解码通过；第1、4镜仅改画面、保留原配音。空选择校验、720p规格说明、单镜版本标识和阶段进度均有实际改善。正式导出与主观试听、人工精确校时未完成。
 
 ## 如何使用本仓库
 
@@ -55,4 +56,4 @@
 
 这是使用记录与评价仓库，包含普通页面操作、下载产物检查以及明确标记的用户修复报告；不是服务端审计或全面质量认证。公开归档保留必要事实与复现条件，完整会话、内部任务记录及研究原稿没有作为评价附件发布。
 
-最后整理：**2026-11-04**。服务之后可能继续变化，请以各条目的最新复测日期为准。
+最后整理：**2026-11-06**。服务之后可能继续变化，请以各条目的最新复测日期为准。
