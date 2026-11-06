@@ -2,11 +2,13 @@
 
 整理日期：2026-11-06。状态按最近一次有依据的记录填写；“历史待复测”不能解释为当前必现故障。维护者可引用稳定ID登记修复，再按验收场景补充复测结果。
 
-跟踪入口：[视频 #1](https://github.com/zmhhaha/panghu-service-feedback/issues/1) · [PPT #2](https://github.com/zmhhaha/panghu-service-feedback/issues/2) · [科研 #3](https://github.com/zmhhaha/panghu-service-feedback/issues/3)。共30项跟踪条目，包含部分复测通过、待优化、建议或历史待复测，另保留已修复历史记录。
+跟踪入口：[视频 #1](https://github.com/zmhhaha/panghu-service-feedback/issues/1) · [PPT #2](https://github.com/zmhhaha/panghu-service-feedback/issues/2) · [科研 #3](https://github.com/zmhhaha/panghu-service-feedback/issues/3)。共33项跟踪条目，包含部分复测通过、待优化、建议或历史待复测，另保留已修复历史记录。
 
 ## 视频服务
 
 最近体验2026-11-06，详见[本次实测](services/video-service/retest-2026-11-06.md)。首批15项中13项成功，5图解、5配音成功，3/5镜头草稿成功；第1、4镜按具体失败提示简化图解后恢复，保留原配音。18:36取得[原生完整有声草稿](evidence/video-2026-11-06/DSH-runtime-cycle-native-draft.mp4)，2:41、720p/24fps，站内完整播放与全文件解码通过；正式导出、主观试听与人工精确校时未完成。[11月4日实测](services/video-service/retest-2026-11-04.md)和10月30日历史观察保留。
+
+同日另做一次题材与DSH无关的[晚间实测](services/video-service/retest-2026-11-06-https.md)：5镜中4镜成功，第3镜图解8节点9关系，单镜两次、整片一次校验失败，整片未取得；4段原生单镜草稿合计175秒、720p、解码通过。晚间新增长任务状态不更新（VID-014）与图解密度失败（VID-015）两项观察，并复现写操作静默409（VID-013）。
 
 | ID | 条目 | 优先级 | 状态 |
 |---|---|---|---|
@@ -22,6 +24,9 @@
 | [VID-010](services/video-service/README.md#vid-010) | 背景音乐和基础混音 | P2 | 功能建议；此次路径未见入口 |
 | [VID-011](services/video-service/README.md#vid-011) | 空镜头选择误报连接中断 | P1 | 11月6日空选择提示及按钮禁用通过；断网边界未覆盖 |
 | [VID-012](services/video-service/README.md#vid-012) | 连线避让、标签与尾卡可读性 | P1 | 来源提前清楚并保留版本日期；完整URL丢失，流程与层级仍难读 |
+| [VID-013](services/video-service/README.md#vid-013) | 采用与渲染请求静默失败（409无提示） | P0 | 11月6日晚三次复现；需整页刷新才出现结果 |
+| [VID-014](services/video-service/README.md#vid-014) | 长任务在后台标签页期间状态不更新 | P1 | 11月6日晚复现；等待时间冻结，需手动重新读取 |
+| [VID-015](services/video-service/README.md#vid-015) | 图解元素密度超出渲染能力，失败不指向图元 | P1 | 11月6日晚复现；第3镜三次校验失败，简化请求无效 |
 
 ## PPT服务
 
