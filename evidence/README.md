@@ -2,6 +2,14 @@
 
 这里只保存理解评价所需的产物和页面证据，不是完整研究原稿或全部服务导出。
 
+## 2026-11-09 万有引言100条动画参考
+
+- 目录：`animations-wanyou-reference-2026-11-09/`。
+- 本轮90条视频有285个播放器实际取样位置；8条旧视频复用25个已核对位置，合计98张逐视频拼图。另2条只有5个约秒文字记录点，没有合成截图证据。
+- 拼图保留原播放器画面，缩放后加BV、题名、实际媒体时间；`overview.jpg`选取6类机制，标签是研究归纳。画面未重绘，不是实验台实现效果。
+- [manifest.json](animations-wanyou-reference-2026-11-09/manifest.json)列出100个唯一BV、完整题名、列表日期原文/时长、来源状态、实际或约秒时间与拼图；不含浏览器查询参数或本地私人路径。
+- 见[能力归并与实验卡](../services/video-service/animation-capability-wanyou-study-2026-11-09.md)及[100条逐视频记录](../services/video-service/animation-capability-wanyou-full-2026-11-09.md)。这是截图抽样，未逐片完整观看，不能独立证明全程运动或科学/数值模型正确。
+
 ## PPT最终渲染预览
 
 - 目录：`ppt-2026-11-03/`。

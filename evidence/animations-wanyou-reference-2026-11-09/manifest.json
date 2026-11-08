@@ -1,0 +1,3561 @@
+{
+  "observedDate": "2026-11-09",
+  "timezone": "Asia/Shanghai",
+  "author": "万有引言",
+  "uid": "3747571411454030",
+  "profileUrl": "https://space.bilibili.com/3747571411454030/upload",
+  "method": "player_screenshot_sampling_not_full_video_watch",
+  "pageCounts": [
+    40,
+    40,
+    20
+  ],
+  "publicVideoCount": 100,
+  "newVideoCount": 90,
+  "newSamplePositionCount": 285,
+  "reusedVideoCount": 10,
+  "reusedVerifiedScreenshotVideoCount": 8,
+  "reusedVerifiedScreenshotPositionCount": 25,
+  "reusedApproximateTextVideoCount": 2,
+  "reusedApproximateTextPositionCount": 5,
+  "videos": [
+    {
+      "id": "W001",
+      "author": "万有引言",
+      "bv": "BV1Wj4n6TEQU",
+      "title": "大陆在漂移，第一个说出来的人被笑了半辈子",
+      "dateSourceText": "5小时前",
+      "listedDuration": "05:12",
+      "url": "https://www.bilibili.com/video/BV1Wj4n6TEQU/",
+      "mechanism": "地图区域拆分/拼合、区域身份与历史阶段",
+      "evidenceStatus": "reused_prior_verified_screenshot_observation",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        31.559422,
+        114.111804,
+        202.336171
+      ],
+      "sampleCount": 3,
+      "priorId": "S10",
+      "priorReport": "../../services/video-service/animation-capability-expanded-study-2026-11-09.md",
+      "contactSheet": "BV1Wj4n6TEQU.jpg"
+    },
+    {
+      "id": "W002",
+      "author": "万有引言",
+      "bv": "BV1sj4n6TEkp",
+      "title": "滑梯怎么设计最快？答案不是直线",
+      "dateSourceText": "17小时前",
+      "listedDuration": "02:37",
+      "url": "https://www.bilibili.com/video/BV1sj4n6TEkp/",
+      "mechanism": "路径族、滚圆轨迹与多初值竞速/计时对应",
+      "evidenceStatus": "reused_prior_text_observation",
+      "sampleTimePrecision": "approximate_seconds",
+      "sampleTimesSeconds": [
+        23,
+        63,
+        111
+      ],
+      "sampleCount": 3,
+      "priorId": "S01",
+      "priorReport": "../../services/video-service/animation-capability-expanded-study-2026-11-09.md"
+    },
+    {
+      "id": "W003",
+      "author": "万有引言",
+      "bv": "BV1jv4F6YE7z",
+      "title": "23个人里，两人同一天生日的概率过半",
+      "dateSourceText": "2天前",
+      "listedDuration": "02:38",
+      "url": "https://www.bilibili.com/video/BV1jv4F6YE7z/",
+      "mechanism": "两两关系生成、补事件概率与对象数量联动",
+      "evidenceStatus": "reused_prior_verified_screenshot_observation",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        33.696329,
+        54.778975,
+        82.080391
+      ],
+      "sampleCount": 3,
+      "priorId": "S03",
+      "priorReport": "../../services/video-service/animation-capability-expanded-study-2026-11-09.md",
+      "contactSheet": "BV1jv4F6YE7z.jpg"
+    },
+    {
+      "id": "W004",
+      "author": "万有引言",
+      "bv": "BV1sD4z6dEiF",
+      "title": "无穷大也分大小：有的无穷，比无穷还大",
+      "dateSourceText": "2天前",
+      "listedDuration": "05:28",
+      "url": "https://www.bilibili.com/video/BV1sD4z6dEiF/",
+      "mechanism": "编号实体映射、有限窗口与序列编码对应",
+      "evidenceStatus": "reused_prior_verified_screenshot_observation",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        59.605177,
+        80.592071,
+        152.94438,
+        223.178765
+      ],
+      "sampleCount": 4,
+      "priorId": "S04",
+      "priorReport": "../../services/video-service/animation-capability-expanded-study-2026-11-09.md",
+      "contactSheet": "BV1sD4z6dEiF.jpg"
+    },
+    {
+      "id": "W005",
+      "author": "万有引言",
+      "bv": "BV1WD4z6dESR",
+      "title": "旗子为何会飘？电线为何会“唱歌”？",
+      "dateSourceText": "2天前",
+      "listedDuration": "02:39",
+      "url": "https://www.bilibili.com/video/BV1WD4z6dESR/",
+      "mechanism": "参数区间、受控流线与整体/截面身份对应",
+      "evidenceStatus": "reused_prior_verified_screenshot_observation",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        34.325004,
+        55.452924,
+        82.518058
+      ],
+      "sampleCount": 3,
+      "priorId": "S05",
+      "priorReport": "../../services/video-service/animation-capability-expanded-study-2026-11-09.md",
+      "contactSheet": "BV1WD4z6dESR.jpg"
+    },
+    {
+      "id": "W006",
+      "author": "万有引言",
+      "bv": "BV1iv4F6YESv",
+      "title": "二手车市场为什么全是烂车",
+      "dateSourceText": "3天前",
+      "listedDuration": "02:38",
+      "url": "https://www.bilibili.com/video/BV1iv4F6YESv/",
+      "mechanism": "实体筛选退出、轮次报价与样本均值联动",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        30.001225,
+        73.572786,
+        122.250264
+      ],
+      "contactSheet": "BV1iv4F6YESv.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 30.001225,
+          "mediaDurationSeconds": 158
+        },
+        {
+          "label": "b",
+          "timeSeconds": 73.572786,
+          "mediaDurationSeconds": 158
+        },
+        {
+          "label": "c",
+          "timeSeconds": 122.250264,
+          "mediaDurationSeconds": 158
+        }
+      ]
+    },
+    {
+      "id": "W007",
+      "author": "万有引言",
+      "bv": "BV1KY4h6KEu3",
+      "title": "多开1个收银台，队伍为何短一大半",
+      "dateSourceText": "3天前",
+      "listedDuration": "02:52",
+      "url": "https://www.bilibili.com/video/BV1KY4h6KEu3/",
+      "mechanism": "离散到达/服务事件、队列和等待曲线同源",
+      "evidenceStatus": "reused_prior_text_observation",
+      "sampleTimePrecision": "approximate_seconds",
+      "sampleTimesSeconds": [
+        27,
+        111
+      ],
+      "sampleCount": 2,
+      "priorId": "S02",
+      "priorReport": "../../services/video-service/animation-capability-expanded-study-2026-11-09.md"
+    },
+    {
+      "id": "W008",
+      "author": "万有引言",
+      "bv": "BV12Y4h6NEFg",
+      "title": "随便乱点，为什么画出了完美的三角形？",
+      "dateSourceText": "3天前",
+      "listedDuration": "02:54",
+      "url": "https://www.bilibili.com/video/BV12Y4h6NEFg/",
+      "mechanism": "固定种子的迭代累点、自相似与计数联动",
+      "evidenceStatus": "reused_prior_verified_screenshot_observation",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        36.805953,
+        57.671258,
+        88.814589
+      ],
+      "sampleCount": 3,
+      "priorId": "S06",
+      "priorReport": "../../services/video-service/animation-capability-expanded-study-2026-11-09.md",
+      "contactSheet": "BV12Y4h6NEFg.jpg"
+    },
+    {
+      "id": "W009",
+      "author": "万有引言",
+      "bv": "BV1fh4F6KEPf",
+      "title": "猜平均数的2/3：为什么越聪明的人猜得越小",
+      "dateSourceText": "11月5日",
+      "listedDuration": "02:53",
+      "url": "https://www.bilibili.com/video/BV1fh4F6KEPf/",
+      "mechanism": "递归推理层级、群体身份与分布统计对应",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        31.498613,
+        79.582728,
+        132.347436
+      ],
+      "contactSheet": "BV1fh4F6KEPf.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 31.498613,
+          "mediaDurationSeconds": 173
+        },
+        {
+          "label": "b",
+          "timeSeconds": 79.582728,
+          "mediaDurationSeconds": 173
+        },
+        {
+          "label": "c",
+          "timeSeconds": 132.347436,
+          "mediaDurationSeconds": 173
+        }
+      ]
+    },
+    {
+      "id": "W010",
+      "author": "万有引言",
+      "bv": "BV1bwxd6zELD",
+      "title": "杀死3亿人的天花，是怎么从地球上消失的",
+      "dateSourceText": "11月5日",
+      "listedDuration": "05:33",
+      "url": "https://www.bilibili.com/video/BV1bwxd6zELD/",
+      "mechanism": "年份驱动地理点集、热点计数及局部放大",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        45.18492,
+        122.240758,
+        201.144596,
+        273.525617
+      ],
+      "contactSheet": "BV1bwxd6zELD.jpg",
+      "sampleCount": 4,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 45.18492,
+          "mediaDurationSeconds": 333
+        },
+        {
+          "label": "b",
+          "timeSeconds": 122.240758,
+          "mediaDurationSeconds": 333
+        },
+        {
+          "label": "c",
+          "timeSeconds": 201.144596,
+          "mediaDurationSeconds": 333
+        },
+        {
+          "label": "d",
+          "timeSeconds": 273.525617,
+          "mediaDurationSeconds": 333
+        }
+      ]
+    },
+    {
+      "id": "W011",
+      "author": "万有引言",
+      "bv": "BV1bwxd6zE7p",
+      "title": "声音能画画：沙子为何自己排成花纹",
+      "dateSourceText": "11月5日",
+      "listedDuration": "02:36",
+      "url": "https://www.bilibili.com/video/BV1bwxd6zE7p/",
+      "mechanism": "二维模态场叠加、频率与零值节线对应",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        27.292415,
+        74.588228,
+        120.157937
+      ],
+      "contactSheet": "BV1bwxd6zE7p.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 27.292415,
+          "mediaDurationSeconds": 156
+        },
+        {
+          "label": "b",
+          "timeSeconds": 74.588228,
+          "mediaDurationSeconds": 156
+        },
+        {
+          "label": "c",
+          "timeSeconds": 120.157937,
+          "mediaDurationSeconds": 155.00012
+        }
+      ]
+    },
+    {
+      "id": "W012",
+      "author": "万有引言",
+      "bv": "BV1bwxd6zEh1",
+      "title": "石头剪刀布打了几百万年，还转出螺旋？",
+      "dateSourceText": "11月5日",
+      "listedDuration": "02:57",
+      "url": "https://www.bilibili.com/video/BV1bwxd6zEh1/",
+      "mechanism": "循环竞争、空间类别分区与群体数量曲线",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        27.86035,
+        80.915917,
+        133.610778
+      ],
+      "contactSheet": "BV1bwxd6zEh1.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 27.86035,
+          "mediaDurationSeconds": 177
+        },
+        {
+          "label": "b",
+          "timeSeconds": 80.915917,
+          "mediaDurationSeconds": 177
+        },
+        {
+          "label": "c",
+          "timeSeconds": 133.610778,
+          "mediaDurationSeconds": 176.5
+        }
+      ]
+    },
+    {
+      "id": "W013",
+      "author": "万有引言",
+      "bv": "BV1Bh4F6KE68",
+      "title": "原价999现价199，你赚了吗",
+      "dateSourceText": "11月4日",
+      "listedDuration": "02:53",
+      "url": "https://www.bilibili.com/video/BV1Bh4F6KE68/",
+      "mechanism": "参照条件与相同选项的价格、选择比例对照",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        27.515531,
+        79.32073,
+        131.00736
+      ],
+      "contactSheet": "BV1Bh4F6KE68.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 27.515531,
+          "mediaDurationSeconds": 173
+        },
+        {
+          "label": "b",
+          "timeSeconds": 79.32073,
+          "mediaDurationSeconds": 173
+        },
+        {
+          "label": "c",
+          "timeSeconds": 131.00736,
+          "mediaDurationSeconds": 173
+        }
+      ]
+    },
+    {
+      "id": "W014",
+      "author": "万有引言",
+      "bv": "BV1hWxm6pE2n",
+      "title": "银河系几千亿颗星，为什么没人回答我们",
+      "dateSourceText": "11月4日",
+      "listedDuration": "05:33",
+      "url": "https://www.bilibili.com/video/BV1hWxm6pE2n/",
+      "mechanism": "乘积因素、范围与未知值的点群/公式对应",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        41.355312,
+        121.339078,
+        200.650865,
+        273.126074
+      ],
+      "contactSheet": "BV1hWxm6pE2n.jpg",
+      "sampleCount": 4,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 41.355312,
+          "mediaDurationSeconds": 333
+        },
+        {
+          "label": "b",
+          "timeSeconds": 121.339078,
+          "mediaDurationSeconds": 333
+        },
+        {
+          "label": "c",
+          "timeSeconds": 200.650865,
+          "mediaDurationSeconds": 333
+        },
+        {
+          "label": "d",
+          "timeSeconds": 273.126074,
+          "mediaDurationSeconds": 333
+        }
+      ]
+    },
+    {
+      "id": "W015",
+      "author": "万有引言",
+      "bv": "BV1Thxm6mELm",
+      "title": "一堆乱弹的小球，为什么排成钟形？",
+      "dateSourceText": "11月4日",
+      "listedDuration": "02:53",
+      "url": "https://www.bilibili.com/video/BV1Thxm6mELm/",
+      "mechanism": "随机路径、落槽计数与理论/样本分布比较",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        27.117626,
+        79.540304,
+        130.958295
+      ],
+      "contactSheet": "BV1Thxm6mELm.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 27.117626,
+          "mediaDurationSeconds": 173
+        },
+        {
+          "label": "b",
+          "timeSeconds": 79.540304,
+          "mediaDurationSeconds": 173
+        },
+        {
+          "label": "c",
+          "timeSeconds": 130.958295,
+          "mediaDurationSeconds": 172
+        }
+      ]
+    },
+    {
+      "id": "W016",
+      "author": "万有引言",
+      "bv": "BV1Thxm6mEnv",
+      "title": "300个转圈的圆，竟写出一个龙字",
+      "dateSourceText": "11月4日",
+      "listedDuration": "02:57",
+      "url": "https://www.bilibili.com/video/BV1Thxm6mEnv/",
+      "mechanism": "旋转向量首尾相接、轨迹重建与截断误差对照",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        28.605763,
+        81.450621,
+        134.750619
+      ],
+      "contactSheet": "BV1Thxm6mEnv.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 28.605763,
+          "mediaDurationSeconds": 177
+        },
+        {
+          "label": "b",
+          "timeSeconds": 81.450621,
+          "mediaDurationSeconds": 177
+        },
+        {
+          "label": "c",
+          "timeSeconds": 134.750619,
+          "mediaDurationSeconds": 177
+        }
+      ]
+    },
+    {
+      "id": "W017",
+      "author": "万有引言",
+      "bv": "BV1Eh4F6KETA",
+      "title": "格陵兰被地图放大了16倍",
+      "dateSourceText": "11月3日",
+      "listedDuration": "02:56",
+      "url": "https://www.bilibili.com/video/BV1Eh4F6KETA/",
+      "mechanism": "球面与平面地理对应、纬度失真标记和区域身份",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        28.482916,
+        79.319728,
+        133.277822
+      ],
+      "contactSheet": "BV1Eh4F6KETA.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 28.482916,
+          "mediaDurationSeconds": 176
+        },
+        {
+          "label": "b",
+          "timeSeconds": 79.319728,
+          "mediaDurationSeconds": 176
+        },
+        {
+          "label": "c",
+          "timeSeconds": 133.277822,
+          "mediaDurationSeconds": 176
+        }
+      ]
+    },
+    {
+      "id": "W018",
+      "author": "万有引言",
+      "bv": "BV11t4K6aE5b",
+      "title": "照在你脸上的阳光，在太阳里绕了17万年",
+      "dateSourceText": "11月3日",
+      "listedDuration": "05:08",
+      "url": "https://www.bilibili.com/video/BV11t4K6aE5b/",
+      "mechanism": "跨尺度阶段流程、过程对象转换与累计时间表示",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        39.125686,
+        113.463882,
+        186.957067,
+        252.723806
+      ],
+      "contactSheet": "BV11t4K6aE5b.jpg",
+      "sampleCount": 4,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 39.125686,
+          "mediaDurationSeconds": 308
+        },
+        {
+          "label": "b",
+          "timeSeconds": 113.463882,
+          "mediaDurationSeconds": 308
+        },
+        {
+          "label": "c",
+          "timeSeconds": 186.957067,
+          "mediaDurationSeconds": 308
+        },
+        {
+          "label": "d",
+          "timeSeconds": 252.723806,
+          "mediaDurationSeconds": 308
+        }
+      ]
+    },
+    {
+      "id": "W019",
+      "author": "万有引言",
+      "bv": "BV1a54K63Eiq",
+      "title": "15个单摆乱成一团，60秒后竟全部对齐",
+      "dateSourceText": "11月3日",
+      "listedDuration": "02:57",
+      "url": "https://www.bilibili.com/video/BV1a54K63Eiq/",
+      "mechanism": "多周期摆阵、相位指针与空间波形共用时间",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        28.842886,
+        82.537046,
+        134.894412
+      ],
+      "contactSheet": "BV1a54K63Eiq.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 28.842886,
+          "mediaDurationSeconds": 177
+        },
+        {
+          "label": "b",
+          "timeSeconds": 82.537046,
+          "mediaDurationSeconds": 177
+        },
+        {
+          "label": "c",
+          "timeSeconds": 134.894412,
+          "mediaDurationSeconds": 177
+        }
+      ]
+    },
+    {
+      "id": "W020",
+      "author": "万有引言",
+      "bv": "BV18n4K6MEL9",
+      "title": "心脏为什么会突然乱跳？答案是一个电漩涡",
+      "dateSourceText": "11月3日",
+      "listedDuration": "02:55",
+      "url": "https://www.bilibili.com/video/BV18n4K6MEL9/",
+      "mechanism": "可激发介质波前、断口旋涡与波形/状态面板",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        28.389417,
+        81.243849,
+        131.486968
+      ],
+      "contactSheet": "BV18n4K6MEL9.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 28.389417,
+          "mediaDurationSeconds": 175
+        },
+        {
+          "label": "b",
+          "timeSeconds": 81.243849,
+          "mediaDurationSeconds": 175
+        },
+        {
+          "label": "c",
+          "timeSeconds": 131.486968,
+          "mediaDurationSeconds": 175
+        }
+      ]
+    },
+    {
+      "id": "W021",
+      "author": "万有引言",
+      "bv": "BV1zh4F6KEA8",
+      "title": "最凶老大凭啥独吞98枚金币",
+      "dateSourceText": "11月2日",
+      "listedDuration": "02:52",
+      "url": "https://www.bilibili.com/video/BV1zh4F6KEA8/",
+      "mechanism": "逆向决策表、投票状态与实体/收益分配联动",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        25.929834,
+        80.05488,
+        131.46127
+      ],
+      "contactSheet": "BV1zh4F6KEA8.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 25.929834,
+          "mediaDurationSeconds": 172
+        },
+        {
+          "label": "b",
+          "timeSeconds": 80.05488,
+          "mediaDurationSeconds": 172
+        },
+        {
+          "label": "c",
+          "timeSeconds": 131.46127,
+          "mediaDurationSeconds": 172
+        }
+      ]
+    },
+    {
+      "id": "W022",
+      "author": "万有引言",
+      "bv": "BV1Jtxx6gEGA",
+      "title": "两千年密码战：真的没有打不开的锁吗？",
+      "dateSourceText": "11月2日",
+      "listedDuration": "05:28",
+      "url": "https://www.bilibili.com/video/BV1Jtxx6gEGA/",
+      "mechanism": "明文/密钥索引对齐、查表交点、猜词偏移与排除",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        41.295641,
+        119.508427,
+        197.029664,
+        269.681062
+      ],
+      "contactSheet": "BV1Jtxx6gEGA.jpg",
+      "sampleCount": 4,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 41.295641,
+          "mediaDurationSeconds": 328
+        },
+        {
+          "label": "b",
+          "timeSeconds": 119.508427,
+          "mediaDurationSeconds": 328
+        },
+        {
+          "label": "c",
+          "timeSeconds": 197.029664,
+          "mediaDurationSeconds": 328
+        },
+        {
+          "label": "d",
+          "timeSeconds": 269.681062,
+          "mediaDurationSeconds": 328
+        }
+      ]
+    },
+    {
+      "id": "W023",
+      "author": "万有引言",
+      "bv": "BV16sxx6GErU",
+      "title": "登机为什么这么慢？最快的方法反而没人用",
+      "dateSourceText": "11月2日",
+      "listedDuration": "02:56",
+      "url": "https://www.bilibili.com/video/BV16sxx6GErU/",
+      "mechanism": "单通道资源占用、排队事件与位置/时间轨迹比较",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        28.386038,
+        80.387621,
+        134.082098
+      ],
+      "contactSheet": "BV16sxx6GErU.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 28.386038,
+          "mediaDurationSeconds": 176
+        },
+        {
+          "label": "b",
+          "timeSeconds": 80.387621,
+          "mediaDurationSeconds": 176
+        },
+        {
+          "label": "c",
+          "timeSeconds": 134.082098,
+          "mediaDurationSeconds": 176
+        }
+      ]
+    },
+    {
+      "id": "W024",
+      "author": "万有引言",
+      "bv": "BV1nsxx6GEaZ",
+      "title": "只把n连到2n，为什么画出一颗心？",
+      "dateSourceText": "11月2日",
+      "listedDuration": "02:53",
+      "url": "https://www.bilibili.com/video/BV1nsxx6GEaZ/",
+      "mechanism": "圆周模映射弦族、算式/几何绑定与加权分点",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        28.0377,
+        79.844031,
+        132.432585
+      ],
+      "contactSheet": "BV1nsxx6GEaZ.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 28.0377,
+          "mediaDurationSeconds": 173
+        },
+        {
+          "label": "b",
+          "timeSeconds": 79.844031,
+          "mediaDurationSeconds": 173
+        },
+        {
+          "label": "c",
+          "timeSeconds": 132.432585,
+          "mediaDurationSeconds": 173
+        }
+      ]
+    },
+    {
+      "id": "W025",
+      "author": "万有引言",
+      "bv": "BV1sDxy6TErZ",
+      "title": "64000人算天气，为何预报撑不过两周？",
+      "dateSourceText": "11月1日",
+      "listedDuration": "05:31",
+      "url": "https://www.bilibili.com/video/BV1sDxy6TErZ/",
+      "mechanism": "轨迹集合离散度、预测扇面与实际/计算耗时对照",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        41.569852,
+        120.210057,
+        199.976102,
+        271.719538
+      ],
+      "contactSheet": "BV1sDxy6TErZ.jpg",
+      "sampleCount": 4,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 41.569852,
+          "mediaDurationSeconds": 331
+        },
+        {
+          "label": "b",
+          "timeSeconds": 120.210057,
+          "mediaDurationSeconds": 331
+        },
+        {
+          "label": "c",
+          "timeSeconds": 199.976102,
+          "mediaDurationSeconds": 331
+        },
+        {
+          "label": "d",
+          "timeSeconds": 271.719538,
+          "mediaDurationSeconds": 331
+        }
+      ]
+    },
+    {
+      "id": "W026",
+      "author": "万有引言",
+      "bv": "BV1sDxy6TEQo",
+      "title": "搅完奶茶，珍珠为啥都往中间跑？",
+      "dateSourceText": "11月1日",
+      "listedDuration": "02:36",
+      "url": "https://www.bilibili.com/video/BV1sDxy6TEQo/",
+      "mechanism": "俯视/剖面/空间映射、速度剖面与受控输运",
+      "evidenceStatus": "reused_prior_verified_screenshot_observation",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        15.849159,
+        61.707396,
+        95.376458
+      ],
+      "sampleCount": 3,
+      "priorId": "S07",
+      "priorReport": "../../services/video-service/animation-capability-expanded-study-2026-11-09.md",
+      "contactSheet": "BV1sDxy6TEQo.jpg"
+    },
+    {
+      "id": "W027",
+      "author": "万有引言",
+      "bv": "BV1xDxy6TE5L",
+      "title": "人类寿命从30岁涨到73岁，多出的43年靠谁？",
+      "dateSourceText": "11月1日",
+      "listedDuration": "02:57",
+      "url": "https://www.bilibili.com/video/BV1xDxy6TE5L/",
+      "mechanism": "个体年龄与队列筛选、条件均值、存活状态和排除区",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        28.587201,
+        81.272256,
+        134.970252
+      ],
+      "contactSheet": "BV1xDxy6TE5L.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 28.587201,
+          "mediaDurationSeconds": 177
+        },
+        {
+          "label": "b",
+          "timeSeconds": 81.272256,
+          "mediaDurationSeconds": 177
+        },
+        {
+          "label": "c",
+          "timeSeconds": 134.970252,
+          "mediaDurationSeconds": 177
+        }
+      ]
+    },
+    {
+      "id": "W028",
+      "author": "万有引言",
+      "bv": "BV17axq6TE5j",
+      "title": "π算到314万亿位，人类为何追了四千年？",
+      "dateSourceText": "10月31日",
+      "listedDuration": "05:25",
+      "url": "https://www.bilibili.com/video/BV17axq6TE5j/",
+      "mechanism": "多边形细分、交错级数部分和与历史记录对数坐标",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        40.959143,
+        118.082545,
+        198.129172,
+        267.357551
+      ],
+      "contactSheet": "BV17axq6TE5j.jpg",
+      "sampleCount": 4,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 40.959143,
+          "mediaDurationSeconds": 325
+        },
+        {
+          "label": "b",
+          "timeSeconds": 118.082545,
+          "mediaDurationSeconds": 325
+        },
+        {
+          "label": "c",
+          "timeSeconds": 198.129172,
+          "mediaDurationSeconds": 325
+        },
+        {
+          "label": "d",
+          "timeSeconds": 267.357551,
+          "mediaDurationSeconds": 325
+        }
+      ]
+    },
+    {
+      "id": "W029",
+      "author": "万有引言",
+      "bv": "BV17axq6TE2n",
+      "title": "盖茨走进酒吧，人均身家暴涨10万倍",
+      "dateSourceText": "10月31日",
+      "listedDuration": "02:39",
+      "url": "https://www.bilibili.com/video/BV17axq6TE2n/",
+      "mechanism": "个体值柱形、极端值加入、均值/中位数及长尾分布",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        25.653925,
+        73.082139,
+        120.568053
+      ],
+      "contactSheet": "BV17axq6TE2n.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 25.653925,
+          "mediaDurationSeconds": 159
+        },
+        {
+          "label": "b",
+          "timeSeconds": 73.082139,
+          "mediaDurationSeconds": 159
+        },
+        {
+          "label": "c",
+          "timeSeconds": 120.568053,
+          "mediaDurationSeconds": 159
+        }
+      ]
+    },
+    {
+      "id": "W030",
+      "author": "万有引言",
+      "bv": "BV1fbxq6MEqG",
+      "title": "烽火和5G一样快，那两千年我们快在哪？",
+      "dateSourceText": "10月31日",
+      "listedDuration": "02:57",
+      "url": "https://www.bilibili.com/video/BV1fbxq6MEqG/",
+      "mechanism": "多路线到达比较、历史倍数轴与信号频次示意",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        28.63244,
+        81.097861,
+        134.649725
+      ],
+      "contactSheet": "BV1fbxq6MEqG.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 28.63244,
+          "mediaDurationSeconds": 177
+        },
+        {
+          "label": "b",
+          "timeSeconds": 81.097861,
+          "mediaDurationSeconds": 177
+        },
+        {
+          "label": "c",
+          "timeSeconds": 134.649725,
+          "mediaDurationSeconds": 177
+        }
+      ]
+    },
+    {
+      "id": "W031",
+      "author": "万有引言",
+      "bv": "BV1Qzxc6dEn8",
+      "title": "夜空为什么是黑的？答案藏着宇宙的年龄",
+      "dateSourceText": "10月30日",
+      "listedDuration": "05:08",
+      "url": "https://www.bilibili.com/video/BV1Qzxc6dEn8/",
+      "mechanism": "径向遮挡与全景展开、距离延时和波长标尺联动",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        38.730477,
+        112.624986,
+        186.690971,
+        252.966708
+      ],
+      "contactSheet": "BV1Qzxc6dEn8.jpg",
+      "sampleCount": 4,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 38.730477,
+          "mediaDurationSeconds": 308
+        },
+        {
+          "label": "b",
+          "timeSeconds": 112.624986,
+          "mediaDurationSeconds": 308
+        },
+        {
+          "label": "c",
+          "timeSeconds": 186.690971,
+          "mediaDurationSeconds": 308
+        },
+        {
+          "label": "d",
+          "timeSeconds": 252.966708,
+          "mediaDurationSeconds": 308
+        }
+      ]
+    },
+    {
+      "id": "W032",
+      "author": "万有引言",
+      "bv": "BV1Xvxc6tEth",
+      "title": "谣言为何一夜传遍全城，又自己停下？",
+      "dateSourceText": "10月30日",
+      "listedDuration": "02:46",
+      "url": "https://www.bilibili.com/video/BV1Xvxc6tEth/",
+      "mechanism": "空间网络状态传播、S/I/R比例曲线与远程连接对照",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        26.439789,
+        75.871256,
+        125.817217
+      ],
+      "contactSheet": "BV1Xvxc6tEth.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 26.439789,
+          "mediaDurationSeconds": 166
+        },
+        {
+          "label": "b",
+          "timeSeconds": 75.871256,
+          "mediaDurationSeconds": 166
+        },
+        {
+          "label": "c",
+          "timeSeconds": 125.817217,
+          "mediaDurationSeconds": 166
+        }
+      ]
+    },
+    {
+      "id": "W033",
+      "author": "万有引言",
+      "bv": "BV19vxc6tEFv",
+      "title": "为什么1开头的数字最多？还能抓假账",
+      "dateSourceText": "10月30日",
+      "listedDuration": "02:58",
+      "url": "https://www.bilibili.com/video/BV19vxc6tEFv/",
+      "mechanism": "首位数字分类、样本落桶与对数区间概率联动",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        28.818418,
+        82.511656,
+        135.346072
+      ],
+      "contactSheet": "BV19vxc6tEFv.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 28.818418,
+          "mediaDurationSeconds": 178
+        },
+        {
+          "label": "b",
+          "timeSeconds": 82.511656,
+          "mediaDurationSeconds": 178
+        },
+        {
+          "label": "c",
+          "timeSeconds": 135.346072,
+          "mediaDurationSeconds": 177.3
+        }
+      ]
+    },
+    {
+      "id": "W034",
+      "author": "万有引言",
+      "bv": "BV1yBsX6WEr8",
+      "title": "彩虹里没有品红色，是你的大脑发明的",
+      "dateSourceText": "10月29日",
+      "listedDuration": "05:20",
+      "url": "https://www.bilibili.com/video/BV1yBsX6WEr8/",
+      "mechanism": "光谱射线扇、同场景色彩映射与历史步骤素材切换",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        40.414406,
+        116.847705,
+        193.657428,
+        262.526084
+      ],
+      "contactSheet": "BV1yBsX6WEr8.jpg",
+      "sampleCount": 4,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 40.414406,
+          "mediaDurationSeconds": 320
+        },
+        {
+          "label": "b",
+          "timeSeconds": 116.847705,
+          "mediaDurationSeconds": 320
+        },
+        {
+          "label": "c",
+          "timeSeconds": 193.657428,
+          "mediaDurationSeconds": 320
+        },
+        {
+          "label": "d",
+          "timeSeconds": 262.526084,
+          "mediaDurationSeconds": 320
+        }
+      ]
+    },
+    {
+      "id": "W035",
+      "author": "万有引言",
+      "bv": "BV1yBsX6WE5a",
+      "title": "任何地图4种颜色就够？数学家证了124年",
+      "dateSourceText": "10月29日",
+      "listedDuration": "02:53",
+      "url": "https://www.bilibili.com/video/BV1yBsX6WE5a/",
+      "mechanism": "区域/邻接图身份对应、着色约束与案例矩阵进度",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        26.77555,
+        78.827336,
+        129.983511
+      ],
+      "contactSheet": "BV1yBsX6WE5a.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 26.77555,
+          "mediaDurationSeconds": 173
+        },
+        {
+          "label": "b",
+          "timeSeconds": 78.827336,
+          "mediaDurationSeconds": 173
+        },
+        {
+          "label": "c",
+          "timeSeconds": 129.983511,
+          "mediaDurationSeconds": 173
+        }
+      ]
+    },
+    {
+      "id": "W036",
+      "author": "万有引言",
+      "bv": "BV1yBsX6WEJB",
+      "title": "蜂巢为何是六边形？人类1999年才证明",
+      "dateSourceText": "10月29日",
+      "listedDuration": "02:51",
+      "url": "https://www.bilibili.com/video/BV1yBsX6WEJB/",
+      "mechanism": "等面积多边形比较、周长条形与规则铺砌网格",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        26.606078,
+        78.123064,
+        129.619225
+      ],
+      "contactSheet": "BV1yBsX6WEJB.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 26.606078,
+          "mediaDurationSeconds": 171
+        },
+        {
+          "label": "b",
+          "timeSeconds": 78.123064,
+          "mediaDurationSeconds": 171
+        },
+        {
+          "label": "c",
+          "timeSeconds": 129.619225,
+          "mediaDurationSeconds": 171
+        }
+      ]
+    },
+    {
+      "id": "W037",
+      "author": "万有引言",
+      "bv": "BV1SZxu6yEFg",
+      "title": "一粒沙子，是怎么变成3纳米芯片的？",
+      "dateSourceText": "10月28日",
+      "listedDuration": "05:04",
+      "url": "https://www.bilibili.com/video/BV1SZxu6yEFg/",
+      "mechanism": "制造阶段实体转换、波长对照与多镜折线路径标注",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        37.536832,
+        110.305674,
+        183.95153,
+        249.342092
+      ],
+      "contactSheet": "BV1SZxu6yEFg.jpg",
+      "sampleCount": 4,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 37.536832,
+          "mediaDurationSeconds": 304
+        },
+        {
+          "label": "b",
+          "timeSeconds": 110.305674,
+          "mediaDurationSeconds": 304
+        },
+        {
+          "label": "c",
+          "timeSeconds": 183.95153,
+          "mediaDurationSeconds": 304
+        },
+        {
+          "label": "d",
+          "timeSeconds": 249.342092,
+          "mediaDurationSeconds": 304
+        }
+      ]
+    },
+    {
+      "id": "W038",
+      "author": "万有引言",
+      "bv": "BV1SZxu6yESZ",
+      "title": "1000个赌徒全部破产：赌场为何永远赢",
+      "dateSourceText": "10月28日",
+      "listedDuration": "02:49",
+      "url": "https://www.bilibili.com/video/BV1SZxu6yESZ/",
+      "mechanism": "随机财富路径、零吸收边界与逐次下注/余额联动",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        26.518398,
+        77.116913,
+        127.755741
+      ],
+      "contactSheet": "BV1SZxu6yESZ.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 26.518398,
+          "mediaDurationSeconds": 169
+        },
+        {
+          "label": "b",
+          "timeSeconds": 77.116913,
+          "mediaDurationSeconds": 169
+        },
+        {
+          "label": "c",
+          "timeSeconds": 127.755741,
+          "mediaDurationSeconds": 169
+        }
+      ]
+    },
+    {
+      "id": "W039",
+      "author": "万有引言",
+      "bv": "BV1SZxu6yE4K",
+      "title": "没开发动机，旅行者号怎么把速度翻倍？",
+      "dateSourceText": "10月28日",
+      "listedDuration": "02:51",
+      "url": "https://www.bilibili.com/video/BV1SZxu6yE4K/",
+      "mechanism": "参考系切换、同一事件与速度/质量表示对应",
+      "evidenceStatus": "reused_prior_verified_screenshot_observation",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        17.266419,
+        66.706042,
+        116.620642
+      ],
+      "sampleCount": 3,
+      "priorId": "S08",
+      "priorReport": "../../services/video-service/animation-capability-expanded-study-2026-11-09.md",
+      "contactSheet": "BV1SZxu6yE4K.jpg"
+    },
+    {
+      "id": "W040",
+      "author": "万有引言",
+      "bv": "BV1WVno6pEsW",
+      "title": "手机定位靠爱因斯坦？不然每天偏11公里",
+      "dateSourceText": "10月27日",
+      "listedDuration": "05:27",
+      "url": "https://www.bilibili.com/video/BV1WVno6pEsW/",
+      "mechanism": "双时钟与钟差、空间覆盖面、轨道事件倒计时",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        39.585773,
+        117.944881,
+        196.452876,
+        267.622984
+      ],
+      "contactSheet": "BV1WVno6pEsW.jpg",
+      "sampleCount": 4,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 39.585773,
+          "mediaDurationSeconds": 325.866625
+        },
+        {
+          "label": "b",
+          "timeSeconds": 117.944881,
+          "mediaDurationSeconds": 325.866625
+        },
+        {
+          "label": "c",
+          "timeSeconds": 196.452876,
+          "mediaDurationSeconds": 325.866625
+        },
+        {
+          "label": "d",
+          "timeSeconds": 267.622984,
+          "mediaDurationSeconds": 325.866625
+        }
+      ]
+    },
+    {
+      "id": "W041",
+      "author": "万有引言",
+      "bv": "BV1yVno6pEAW",
+      "title": "满屋子噪音，为什么偏偏听见了你的名字？",
+      "dateSourceText": "10月27日",
+      "listedDuration": "02:56",
+      "url": "https://www.bilibili.com/video/BV1yVno6pEAW/",
+      "mechanism": "波形与介质疏密、双耳到达差、多轨信号对照",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        27.865215,
+        80.519763,
+        132.846471
+      ],
+      "contactSheet": "BV1yVno6pEAW.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 27.865215,
+          "mediaDurationSeconds": 176
+        },
+        {
+          "label": "b",
+          "timeSeconds": 80.519763,
+          "mediaDurationSeconds": 176
+        },
+        {
+          "label": "c",
+          "timeSeconds": 132.846471,
+          "mediaDurationSeconds": 176
+        }
+      ]
+    },
+    {
+      "id": "W042",
+      "author": "万有引言",
+      "bv": "BV1WVno6pEYC",
+      "title": "74人齐步走，竟把一座桥踏塌了",
+      "dateSourceText": "10月27日",
+      "listedDuration": "02:56",
+      "url": "https://www.bilibili.com/video/BV1WVno6pEYC/",
+      "mechanism": "驱动频率扫描、响应曲线与群体相位统计",
+      "evidenceStatus": "reused_prior_verified_screenshot_observation",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        17.736292,
+        68.083678,
+        119.476767
+      ],
+      "sampleCount": 3,
+      "priorId": "S09",
+      "priorReport": "../../services/video-service/animation-capability-expanded-study-2026-11-09.md",
+      "contactSheet": "BV1WVno6pEYC.jpg"
+    },
+    {
+      "id": "W043",
+      "author": "万有引言",
+      "bv": "BV1cynU6FESh",
+      "title": "只会开和关的开关，是怎么学会写诗的？",
+      "dateSourceText": "10月26日",
+      "listedDuration": "05:35",
+      "url": "https://www.bilibili.com/video/BV1cynU6FESh/",
+      "mechanism": "电路真值、优化轨迹与误差、token注意力权重",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        41.895535,
+        121.525351,
+        201.964863,
+        274.826627
+      ],
+      "contactSheet": "BV1cynU6FESh.jpg",
+      "sampleCount": 4,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 41.895535,
+          "mediaDurationSeconds": 335
+        },
+        {
+          "label": "b",
+          "timeSeconds": 121.525351,
+          "mediaDurationSeconds": 335
+        },
+        {
+          "label": "c",
+          "timeSeconds": 201.964863,
+          "mediaDurationSeconds": 335
+        },
+        {
+          "label": "d",
+          "timeSeconds": 274.826627,
+          "mediaDurationSeconds": 335
+        }
+      ]
+    },
+    {
+      "id": "W044",
+      "author": "万有引言",
+      "bv": "BV1cynU6FEZk",
+      "title": "一副牌要洗几次才算真的乱？答案是7次",
+      "dateSourceText": "10月26日",
+      "listedDuration": "02:40",
+      "url": "https://www.bilibili.com/video/BV1cynU6FEZk/",
+      "mechanism": "合法置换、牌序矩阵、随机性统计与数量级比较",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        25.394487,
+        73.201671,
+        122.071366
+      ],
+      "contactSheet": "BV1cynU6FEZk.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 25.394487,
+          "mediaDurationSeconds": 160
+        },
+        {
+          "label": "b",
+          "timeSeconds": 73.201671,
+          "mediaDurationSeconds": 160
+        },
+        {
+          "label": "c",
+          "timeSeconds": 122.071366,
+          "mediaDurationSeconds": 160
+        }
+      ]
+    },
+    {
+      "id": "W045",
+      "author": "万有引言",
+      "bv": "BV1cynU6FEt2",
+      "title": "猫从高处掉下，为什么总能脚先着地？",
+      "dateSourceText": "10月26日",
+      "listedDuration": "02:39",
+      "url": "https://www.bilibili.com/video/BV1cynU6FEt2/",
+      "mechanism": "分段姿态、惯量与角速度、守恒指标和部件绑定",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        24.756848,
+        72.687536,
+        120.319989
+      ],
+      "contactSheet": "BV1cynU6FEt2.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 24.756848,
+          "mediaDurationSeconds": 159
+        },
+        {
+          "label": "b",
+          "timeSeconds": 72.687536,
+          "mediaDurationSeconds": 159
+        },
+        {
+          "label": "c",
+          "timeSeconds": 120.319989,
+          "mediaDurationSeconds": 158.5
+        }
+      ]
+    },
+    {
+      "id": "W046",
+      "author": "万有引言",
+      "bv": "BV15mHN6wEb9",
+      "title": "钢琴上每个音都是错的，却成就了巴赫",
+      "dateSourceText": "10月25日",
+      "listedDuration": "05:15",
+      "url": "https://www.bilibili.com/video/BV15mHN6wEb9/",
+      "mechanism": "音高比例、弦长映射、五度循环与调律对照",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        39.261262,
+        113.908663,
+        189.920939,
+        258.668443
+      ],
+      "contactSheet": "BV15mHN6wEb9.jpg",
+      "sampleCount": 4,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 39.261262,
+          "mediaDurationSeconds": 315
+        },
+        {
+          "label": "b",
+          "timeSeconds": 113.908663,
+          "mediaDurationSeconds": 315
+        },
+        {
+          "label": "c",
+          "timeSeconds": 189.920939,
+          "mediaDurationSeconds": 315
+        },
+        {
+          "label": "d",
+          "timeSeconds": 258.668443,
+          "mediaDurationSeconds": 315
+        }
+      ]
+    },
+    {
+      "id": "W047",
+      "author": "万有引言",
+      "bv": "BV1RUHN6hEcQ",
+      "title": "摇一摇，大坚果为什么总浮到最上面",
+      "dateSourceText": "10月25日",
+      "listedDuration": "02:58",
+      "url": "https://www.bilibili.com/video/BV1RUHN6hEcQ/",
+      "mechanism": "数量等价、颗粒条件对照、对象高度与曲线联动",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        28.246731,
+        81.655417,
+        135.065282
+      ],
+      "contactSheet": "BV1RUHN6hEcQ.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 28.246731,
+          "mediaDurationSeconds": 178
+        },
+        {
+          "label": "b",
+          "timeSeconds": 81.655417,
+          "mediaDurationSeconds": 178
+        },
+        {
+          "label": "c",
+          "timeSeconds": 135.065282,
+          "mediaDurationSeconds": 178
+        }
+      ]
+    },
+    {
+      "id": "W048",
+      "author": "万有引言",
+      "bv": "BV1SVnh64EhX",
+      "title": "一根木棍，怎么量出930亿光年的宇宙？",
+      "dateSourceText": "10月24日",
+      "listedDuration": "05:20",
+      "url": "https://www.bilibili.com/video/BV1SVnh64EhX/",
+      "mechanism": "多尺度测量尺、视差类比、周期与亮度标定",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        39.386353,
+        116.327734,
+        193.168502,
+        262.796425
+      ],
+      "contactSheet": "BV1SVnh64EhX.jpg",
+      "sampleCount": 4,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 39.386353,
+          "mediaDurationSeconds": 320
+        },
+        {
+          "label": "b",
+          "timeSeconds": 116.327734,
+          "mediaDurationSeconds": 320
+        },
+        {
+          "label": "c",
+          "timeSeconds": 193.168502,
+          "mediaDurationSeconds": 320
+        },
+        {
+          "label": "d",
+          "timeSeconds": 262.796425,
+          "mediaDurationSeconds": 320
+        }
+      ]
+    },
+    {
+      "id": "W049",
+      "author": "万有引言",
+      "bv": "BV1aunh6FEf9",
+      "title": "斑马的条纹、豹子的斑点，都是方程算出来的",
+      "dateSourceText": "10月24日",
+      "listedDuration": "02:54",
+      "url": "https://www.bilibili.com/video/BV1aunh6FEf9/",
+      "mechanism": "双场扩散、方程与纹理、轮廓域内斑点条纹对照",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        28.346065,
+        80.089527,
+        132.969656
+      ],
+      "contactSheet": "BV1aunh6FEf9.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 28.346065,
+          "mediaDurationSeconds": 174
+        },
+        {
+          "label": "b",
+          "timeSeconds": 80.089527,
+          "mediaDurationSeconds": 174
+        },
+        {
+          "label": "c",
+          "timeSeconds": 132.969656,
+          "mediaDurationSeconds": 174
+        }
+      ]
+    },
+    {
+      "id": "W050",
+      "author": "万有引言",
+      "bv": "BV1XQnH6zEXX",
+      "title": "你身上每个原子，都来自一颗死去的恒星",
+      "dateSourceText": "10月23日",
+      "listedDuration": "07:28",
+      "url": "https://www.bilibili.com/video/BV1XQnH6zEXX/",
+      "mechanism": "成分比例、带元素锚点曲线、周期表来源分层",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        55.479605,
+        162.874488,
+        270.710564,
+        367.462677
+      ],
+      "contactSheet": "BV1XQnH6zEXX.jpg",
+      "sampleCount": 4,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 55.479605,
+          "mediaDurationSeconds": 448
+        },
+        {
+          "label": "b",
+          "timeSeconds": 162.874488,
+          "mediaDurationSeconds": 448
+        },
+        {
+          "label": "c",
+          "timeSeconds": 270.710564,
+          "mediaDurationSeconds": 448
+        },
+        {
+          "label": "d",
+          "timeSeconds": 367.462677,
+          "mediaDurationSeconds": 448
+        }
+      ]
+    },
+    {
+      "id": "W051",
+      "author": "万有引言",
+      "bv": "BV1YQnH6zEjt",
+      "title": "一千只鸟没有领队，为什么从不相撞？",
+      "dateSourceText": "10月23日",
+      "listedDuration": "02:58",
+      "url": "https://www.bilibili.com/video/BV1YQnH6zEjt/",
+      "mechanism": "局部邻域选择、群体规则、捕食目标与群集状态",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        29.141775,
+        82.403077,
+        136.334012
+      ],
+      "contactSheet": "BV1YQnH6zEjt.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 29.141775,
+          "mediaDurationSeconds": 178
+        },
+        {
+          "label": "b",
+          "timeSeconds": 82.403077,
+          "mediaDurationSeconds": 178
+        },
+        {
+          "label": "c",
+          "timeSeconds": 136.334012,
+          "mediaDurationSeconds": 177
+        }
+      ]
+    },
+    {
+      "id": "W052",
+      "author": "万有引言",
+      "bv": "BV1q7nr6eEwJ",
+      "title": "帮你找到工作的，往往是不太熟的人",
+      "dateSourceText": "10月22日",
+      "listedDuration": "02:27",
+      "url": "https://www.bilibili.com/video/BV1q7nr6eEwJ/",
+      "mechanism": "社区网络、跨群桥接、局部聚焦与来源卡",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        24.454559,
+        68.427988,
+        113.150412
+      ],
+      "contactSheet": "BV1q7nr6eEwJ.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 24.454559,
+          "mediaDurationSeconds": 147
+        },
+        {
+          "label": "b",
+          "timeSeconds": 68.427988,
+          "mediaDurationSeconds": 147
+        },
+        {
+          "label": "c",
+          "timeSeconds": 113.150412,
+          "mediaDurationSeconds": 147
+        }
+      ]
+    },
+    {
+      "id": "W053",
+      "author": "万有引言",
+      "bv": "BV1o7nr6eERU",
+      "title": "真随机为什么不像随机？苹果被骂冤了",
+      "dateSourceText": "10月22日",
+      "listedDuration": "02:53",
+      "url": "https://www.bilibili.com/video/BV1o7nr6eERU/",
+      "mechanism": "随机序列与重复事件、空间计数分箱、蓝噪声对照",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        28.176434,
+        79.978275,
+        131.581736
+      ],
+      "contactSheet": "BV1o7nr6eERU.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 28.176434,
+          "mediaDurationSeconds": 173
+        },
+        {
+          "label": "b",
+          "timeSeconds": 79.978275,
+          "mediaDurationSeconds": 173
+        },
+        {
+          "label": "c",
+          "timeSeconds": 131.581736,
+          "mediaDurationSeconds": 173
+        }
+      ]
+    },
+    {
+      "id": "W054",
+      "author": "万有引言",
+      "bv": "BV1q7nr6eEMZ",
+      "title": "围观的人越多，为什么越没人出手？",
+      "dateSourceText": "10月22日",
+      "listedDuration": "02:58",
+      "url": "https://www.bilibili.com/video/BV1q7nr6eEMZ/",
+      "mechanism": "场景关系图、人数与分摊示意、实验与现场数据对照",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        28.56832,
+        82.403552,
+        135.864995
+      ],
+      "contactSheet": "BV1q7nr6eEMZ.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 28.56832,
+          "mediaDurationSeconds": 178
+        },
+        {
+          "label": "b",
+          "timeSeconds": 82.403552,
+          "mediaDurationSeconds": 178
+        },
+        {
+          "label": "c",
+          "timeSeconds": 135.864995,
+          "mediaDurationSeconds": 177
+        }
+      ]
+    },
+    {
+      "id": "W055",
+      "author": "万有引言",
+      "bv": "BV1JUnN6qELW",
+      "title": "每一项都赢，合起来却输了？辛普森悖论",
+      "dateSourceText": "10月21日",
+      "listedDuration": "02:39",
+      "url": "https://www.bilibili.com/video/BV1JUnN6qELW/",
+      "mechanism": "分组点阵与分母、加权汇总、混杂分层趋势对照",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        25.49975,
+        73.390484,
+        119.942658
+      ],
+      "contactSheet": "BV1JUnN6qELW.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 25.49975,
+          "mediaDurationSeconds": 159
+        },
+        {
+          "label": "b",
+          "timeSeconds": 73.390484,
+          "mediaDurationSeconds": 159
+        },
+        {
+          "label": "c",
+          "timeSeconds": 119.942658,
+          "mediaDurationSeconds": 159
+        }
+      ]
+    },
+    {
+      "id": "W056",
+      "author": "万有引言",
+      "bv": "BV1JUnN6qExx",
+      "title": "从一根木棍到GPS：人类怎么量出地球",
+      "dateSourceText": "10月21日",
+      "listedDuration": "02:38",
+      "url": "https://www.bilibili.com/video/BV1JUnN6qExx/",
+      "mechanism": "影长与角度、球面弧长、传播时延到定位轨迹",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        25.451595,
+        73.202706,
+        120.272119
+      ],
+      "contactSheet": "BV1JUnN6qExx.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 25.451595,
+          "mediaDurationSeconds": 158
+        },
+        {
+          "label": "b",
+          "timeSeconds": 73.202706,
+          "mediaDurationSeconds": 158
+        },
+        {
+          "label": "c",
+          "timeSeconds": 120.272119,
+          "mediaDurationSeconds": 157
+        }
+      ]
+    },
+    {
+      "id": "W057",
+      "author": "万有引言",
+      "bv": "BV1JUnN6qEEA",
+      "title": "井盖为什么是圆的？其实三角形也掉不下去",
+      "dateSourceText": "10月21日",
+      "listedDuration": "02:58",
+      "url": "https://www.bilibili.com/video/BV1JUnN6qEEA/",
+      "mechanism": "旋转支撑宽度、几何测量曲线、等宽轮廓对照",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        28.0025,
+        81.981084,
+        134.903647
+      ],
+      "contactSheet": "BV1JUnN6qEEA.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 28.0025,
+          "mediaDurationSeconds": 178
+        },
+        {
+          "label": "b",
+          "timeSeconds": 81.981084,
+          "mediaDurationSeconds": 178
+        },
+        {
+          "label": "c",
+          "timeSeconds": 134.903647,
+          "mediaDurationSeconds": 178
+        }
+      ]
+    },
+    {
+      "id": "W058",
+      "author": "万有引言",
+      "bv": "BV1CcJd6UE9e",
+      "title": "大象细胞是人的100倍，为何很少得癌？",
+      "dateSourceText": "10月20日",
+      "listedDuration": "02:57",
+      "url": "https://www.bilibili.com/video/BV1CcJd6UE9e/",
+      "mechanism": "细胞阵列、序列位点高亮、谱系阶段与拷贝计数",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        28.750764,
+        81.575762,
+        134.808777
+      ],
+      "contactSheet": "BV1CcJd6UE9e.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 28.750764,
+          "mediaDurationSeconds": 177
+        },
+        {
+          "label": "b",
+          "timeSeconds": 81.575762,
+          "mediaDurationSeconds": 177
+        },
+        {
+          "label": "c",
+          "timeSeconds": 134.808777,
+          "mediaDurationSeconds": 176.5
+        }
+      ]
+    },
+    {
+      "id": "W059",
+      "author": "万有引言",
+      "bv": "BV1PcJd6UEE7",
+      "title": "自己拼的柜子，为什么最好看？宜家效应",
+      "dateSourceText": "10月20日",
+      "listedDuration": "02:55",
+      "url": "https://www.bilibili.com/video/BV1PcJd6UEE7/",
+      "mechanism": "同款对象条件对照、保留与拆除状态、情境卡",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        28.534669,
+        80.832599,
+        133.596714
+      ],
+      "contactSheet": "BV1PcJd6UEE7.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 28.534669,
+          "mediaDurationSeconds": 175
+        },
+        {
+          "label": "b",
+          "timeSeconds": 80.832599,
+          "mediaDurationSeconds": 175
+        },
+        {
+          "label": "c",
+          "timeSeconds": 133.596714,
+          "mediaDurationSeconds": 174
+        }
+      ]
+    },
+    {
+      "id": "W060",
+      "author": "万有引言",
+      "bv": "BV1qvJR6iEY5",
+      "title": "彩虹为什么永远是42°？答案藏在一滴雨里",
+      "dateSourceText": "10月20日",
+      "listedDuration": "02:51",
+      "url": "https://www.bilibili.com/video/BV1qvJR6iEY5/",
+      "mechanism": "折射反射路径、入射束角度分布、颜色与观察方向",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        27.938362,
+        79.043009,
+        129.918453
+      ],
+      "contactSheet": "BV1qvJR6iEY5.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 27.938362,
+          "mediaDurationSeconds": 171
+        },
+        {
+          "label": "b",
+          "timeSeconds": 79.043009,
+          "mediaDurationSeconds": 171
+        },
+        {
+          "label": "c",
+          "timeSeconds": 129.918453,
+          "mediaDurationSeconds": 171
+        }
+      ]
+    },
+    {
+      "id": "W061",
+      "author": "万有引言",
+      "bv": "BV146nu6bE9R",
+      "title": "老鼠活2年大象活70年，一生心跳竟差不多？",
+      "dateSourceText": "10月19日",
+      "listedDuration": "02:56",
+      "url": "https://www.bilibili.com/video/BV146nu6bE9R/",
+      "mechanism": "对象尺度与指标、幂律曲线、指数相加与模型偏差",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        28.273008,
+        80.520503,
+        133.276428
+      ],
+      "contactSheet": "BV146nu6bE9R.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 28.273008,
+          "mediaDurationSeconds": 176
+        },
+        {
+          "label": "b",
+          "timeSeconds": 80.520503,
+          "mediaDurationSeconds": 176
+        },
+        {
+          "label": "c",
+          "timeSeconds": 133.276428,
+          "mediaDurationSeconds": 176
+        }
+      ]
+    },
+    {
+      "id": "W062",
+      "author": "万有引言",
+      "bv": "BV1t6nu6bEvy",
+      "title": "一场骚乱，只差一个人：格兰诺维特阈值模型",
+      "dateSourceText": "10月19日",
+      "listedDuration": "02:58",
+      "url": "https://www.bilibili.com/video/BV1t6nu6bEvy/",
+      "mechanism": "主体阈值、激活计数、级联断点与情境复用",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        28.660461,
+        82.274472,
+        135.181553
+      ],
+      "contactSheet": "BV1t6nu6bEvy.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 28.660461,
+          "mediaDurationSeconds": 178
+        },
+        {
+          "label": "b",
+          "timeSeconds": 82.274472,
+          "mediaDurationSeconds": 178
+        },
+        {
+          "label": "c",
+          "timeSeconds": 135.181553,
+          "mediaDurationSeconds": 177
+        }
+      ]
+    },
+    {
+      "id": "W063",
+      "author": "万有引言",
+      "bv": "BV1bqnu6hE6y",
+      "title": "24种果酱，为什么卖不过6种？选择悖论",
+      "dateSourceText": "10月19日",
+      "listedDuration": "02:37",
+      "url": "https://www.bilibili.com/video/BV1bqnu6hE6y/",
+      "mechanism": "选项陈列阵列、人物与物件状态、优惠条件标签",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        25.297711,
+        72.719631,
+        119.053369
+      ],
+      "contactSheet": "BV1bqnu6hE6y.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 25.297711,
+          "mediaDurationSeconds": 157
+        },
+        {
+          "label": "b",
+          "timeSeconds": 72.719631,
+          "mediaDurationSeconds": 157
+        },
+        {
+          "label": "c",
+          "timeSeconds": 119.053369,
+          "mediaDurationSeconds": 157
+        }
+      ]
+    },
+    {
+      "id": "W064",
+      "author": "万有引言",
+      "bv": "BV1frJB64EBt",
+      "title": "电影很难看，为什么还要硬撑着看完？",
+      "dateSourceText": "10月18日",
+      "listedDuration": "02:37",
+      "url": "https://www.bilibili.com/video/BV1frJB64EBt/",
+      "mechanism": "时间进度、已投入成本、跨情境道具与状态条",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        25.340748,
+        72.85945,
+        119.74647
+      ],
+      "contactSheet": "BV1frJB64EBt.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 25.340748,
+          "mediaDurationSeconds": 157
+        },
+        {
+          "label": "b",
+          "timeSeconds": 72.85945,
+          "mediaDurationSeconds": 157
+        },
+        {
+          "label": "c",
+          "timeSeconds": 119.74647,
+          "mediaDurationSeconds": 156
+        }
+      ]
+    },
+    {
+      "id": "W065",
+      "author": "万有引言",
+      "bv": "BV1frJB64EXt",
+      "title": "为什么你的朋友，平均比你朋友多？",
+      "dateSourceText": "10月18日",
+      "listedDuration": "02:39",
+      "url": "https://www.bilibili.com/video/BV1frJB64EXt/",
+      "mechanism": "网络度数、重复采样名额、按人和按边加权对照",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        25.779932,
+        73.937918,
+        120.96852
+      ],
+      "contactSheet": "BV1frJB64EXt.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 25.779932,
+          "mediaDurationSeconds": 159
+        },
+        {
+          "label": "b",
+          "timeSeconds": 73.937918,
+          "mediaDurationSeconds": 159
+        },
+        {
+          "label": "c",
+          "timeSeconds": 120.96852,
+          "mediaDurationSeconds": 158
+        }
+      ]
+    },
+    {
+      "id": "W066",
+      "author": "万有引言",
+      "bv": "BV1fkJB6dEMK",
+      "title": "拍到了，反而亏了？揭秘赢家的诅咒",
+      "dateSourceText": "10月18日",
+      "listedDuration": "02:23",
+      "url": "https://www.bilibili.com/video/BV1fkJB6dEMK/",
+      "mechanism": "估价点分布、极值选择偏差、成交价与损益计算",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        23.599293,
+        65.856784,
+        109.400243
+      ],
+      "contactSheet": "BV1fkJB6dEMK.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 23.599293,
+          "mediaDurationSeconds": 143
+        },
+        {
+          "label": "b",
+          "timeSeconds": 65.856784,
+          "mediaDurationSeconds": 143
+        },
+        {
+          "label": "c",
+          "timeSeconds": 109.400243,
+          "mediaDurationSeconds": 142
+        }
+      ]
+    },
+    {
+      "id": "W067",
+      "author": "万有引言",
+      "bv": "BV1EtJ86NEPp",
+      "title": "悬赏打蛇，为什么蛇反而越打越多？",
+      "dateSourceText": "10月17日",
+      "listedDuration": "02:58",
+      "url": "https://www.bilibili.com/video/BV1EtJ86NEPp/",
+      "mechanism": "激励与存量反馈、目标指标对照、数量与质量分离",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        27.174923,
+        81.290961,
+        134.611756
+      ],
+      "contactSheet": "BV1EtJ86NEPp.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 27.174923,
+          "mediaDurationSeconds": 178
+        },
+        {
+          "label": "b",
+          "timeSeconds": 81.290961,
+          "mediaDurationSeconds": 178
+        },
+        {
+          "label": "c",
+          "timeSeconds": 134.611756,
+          "mediaDurationSeconds": 177.3
+        }
+      ]
+    },
+    {
+      "id": "W068",
+      "author": "万有引言",
+      "bv": "BV17bJ86eE9d",
+      "title": "共享单车为何总被弄坏？答案在一片草地里",
+      "dateSourceText": "10月17日",
+      "listedDuration": "02:39",
+      "url": "https://www.bilibili.com/video/BV17bJ86eE9d/",
+      "mechanism": "共享资源消耗与恢复、个体归属、存量和群体曲线",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        24.342976,
+        72.778432,
+        120.38718
+      ],
+      "contactSheet": "BV17bJ86eE9d.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 24.342976,
+          "mediaDurationSeconds": 159
+        },
+        {
+          "label": "b",
+          "timeSeconds": 72.778432,
+          "mediaDurationSeconds": 159
+        },
+        {
+          "label": "c",
+          "timeSeconds": 120.38718,
+          "mediaDurationSeconds": 158
+        }
+      ]
+    },
+    {
+      "id": "W069",
+      "author": "万有引言",
+      "bv": "BV1ZbJ86YE7A",
+      "title": "丢100块的痛，为什么要捡200块才能抵消？",
+      "dateSourceText": "10月17日",
+      "listedDuration": "01:58",
+      "url": "https://www.bilibili.com/video/BV1ZbJ86YE7A/",
+      "mechanism": "参考点与分段价值曲线、损失收益、持有条件对照",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        18.598848,
+        54.101342,
+        89.01593
+      ],
+      "contactSheet": "BV1ZbJ86YE7A.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 18.598848,
+          "mediaDurationSeconds": 118
+        },
+        {
+          "label": "b",
+          "timeSeconds": 54.101342,
+          "mediaDurationSeconds": 117
+        },
+        {
+          "label": "c",
+          "timeSeconds": 89.01593,
+          "mediaDurationSeconds": 117
+        }
+      ]
+    },
+    {
+      "id": "W070",
+      "author": "万有引言",
+      "bv": "BV1myp26MEaz",
+      "title": "Vibe知识大赏 | 蚂蚁乱走万步后竟修起高速",
+      "dateSourceText": "10月17日",
+      "listedDuration": "02:58",
+      "url": "https://www.bilibili.com/video/BV1myp26MEaz/",
+      "mechanism": "元胞翻转规则、朝向与步进、轨迹序列和初态对照",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        27.531944,
+        81.173007,
+        134.047074
+      ],
+      "contactSheet": "BV1myp26MEaz.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 27.531944,
+          "mediaDurationSeconds": 178
+        },
+        {
+          "label": "b",
+          "timeSeconds": 81.173007,
+          "mediaDurationSeconds": 178
+        },
+        {
+          "label": "c",
+          "timeSeconds": 134.047074,
+          "mediaDurationSeconds": 178
+        }
+      ]
+    },
+    {
+      "id": "W071",
+      "author": "万有引言",
+      "bv": "BV1Myp26uE5V",
+      "title": "Vibe知识大赏 | 天空为何蓝，晚霞为何红",
+      "dateSourceText": "10月17日",
+      "listedDuration": "02:58",
+      "url": "https://www.bilibili.com/video/BV1Myp26uE5V/",
+      "mechanism": "波长散射曲线、彩色波形与不同粒径对照",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        27.701434,
+        81.400865,
+        134.998047
+      ],
+      "contactSheet": "BV1Myp26uE5V.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 27.701434,
+          "mediaDurationSeconds": 178
+        },
+        {
+          "label": "b",
+          "timeSeconds": 81.400865,
+          "mediaDurationSeconds": 178
+        },
+        {
+          "label": "c",
+          "timeSeconds": 134.998047,
+          "mediaDurationSeconds": 178
+        }
+      ]
+    },
+    {
+      "id": "W072",
+      "author": "万有引言",
+      "bv": "BV1myp26MEb8",
+      "title": "Vibe知识大赏 | 没人指挥，蚂蚁怎知最短路",
+      "dateSourceText": "10月17日",
+      "listedDuration": "02:56",
+      "url": "https://www.bilibili.com/video/BV1myp26MEb8/",
+      "mechanism": "信息素路径强化、断桥重选与比例联动",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        27.655654,
+        80.309615,
+        133.426359
+      ],
+      "contactSheet": "BV1myp26MEb8.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 27.655654,
+          "mediaDurationSeconds": 176
+        },
+        {
+          "label": "b",
+          "timeSeconds": 80.309615,
+          "mediaDurationSeconds": 176
+        },
+        {
+          "label": "c",
+          "timeSeconds": 133.426359,
+          "mediaDurationSeconds": 176
+        }
+      ]
+    },
+    {
+      "id": "W073",
+      "author": "万有引言",
+      "bv": "BV1myp26MEkK",
+      "title": "Vibe知识大赏 | 三个太阳，为什么算不准？",
+      "dateSourceText": "10月17日",
+      "listedDuration": "02:57",
+      "url": "https://www.bilibili.com/video/BV1myp26MEkK/",
+      "mechanism": "多天体轨迹历史、近距离交会与特殊轨道对照",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        26.534276,
+        80.367398,
+        133.526965
+      ],
+      "contactSheet": "BV1myp26MEkK.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 26.534276,
+          "mediaDurationSeconds": 177
+        },
+        {
+          "label": "b",
+          "timeSeconds": 80.367398,
+          "mediaDurationSeconds": 177
+        },
+        {
+          "label": "c",
+          "timeSeconds": 133.526965,
+          "mediaDurationSeconds": 177
+        }
+      ]
+    },
+    {
+      "id": "W074",
+      "author": "万有引言",
+      "bv": "BV1m1p26qEFG",
+      "title": "Vibe知识大赏 | 群体免疫：一针护住所有人",
+      "dateSourceText": "10月17日",
+      "listedDuration": "02:57",
+      "url": "https://www.bilibili.com/video/BV1m1p26qEFG/",
+      "mechanism": "图上传播、接种率分屏对照与特殊群体标注",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        27.490151,
+        80.88607,
+        134.037226
+      ],
+      "contactSheet": "BV1m1p26qEFG.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 27.490151,
+          "mediaDurationSeconds": 177
+        },
+        {
+          "label": "b",
+          "timeSeconds": 80.88607,
+          "mediaDurationSeconds": 177
+        },
+        {
+          "label": "c",
+          "timeSeconds": 134.037226,
+          "mediaDurationSeconds": 176.5
+        }
+      ]
+    },
+    {
+      "id": "W075",
+      "author": "万有引言",
+      "bv": "BV121p26qECM",
+      "title": "Vibe知识大赏 | 眼里有个洞，大脑帮你补上",
+      "dateSourceText": "10月17日",
+      "listedDuration": "02:58",
+      "url": "https://www.bilibili.com/video/BV121p26qECM/",
+      "mechanism": "视网膜结构汇聚、注视锚点与局部遮罩对照",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        28.638864,
+        82.572828,
+        135.419081
+      ],
+      "contactSheet": "BV121p26qECM.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 28.638864,
+          "mediaDurationSeconds": 178
+        },
+        {
+          "label": "b",
+          "timeSeconds": 82.572828,
+          "mediaDurationSeconds": 178
+        },
+        {
+          "label": "c",
+          "timeSeconds": 135.419081,
+          "mediaDurationSeconds": 177
+        }
+      ]
+    },
+    {
+      "id": "W076",
+      "author": "万有引言",
+      "bv": "BV1m1p26qEgT",
+      "title": "Vibe知识大赏 | 向日葵为何偏爱137.5°？",
+      "dateSourceText": "10月17日",
+      "listedDuration": "02:58",
+      "url": "https://www.bilibili.com/video/BV1m1p26qEgT/",
+      "mechanism": "极角阵列、双向螺旋计数与生长角度曲线",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        28.762975,
+        82.767863,
+        135.37932
+      ],
+      "contactSheet": "BV1m1p26qEgT.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 28.762975,
+          "mediaDurationSeconds": 178
+        },
+        {
+          "label": "b",
+          "timeSeconds": 82.767863,
+          "mediaDurationSeconds": 178
+        },
+        {
+          "label": "c",
+          "timeSeconds": 135.37932,
+          "mediaDurationSeconds": 177.322666
+        }
+      ]
+    },
+    {
+      "id": "W077",
+      "author": "万有引言",
+      "bv": "BV1T1p26BEPi",
+      "title": "Vibe知识大赏 | 同一种灰为什么看着不一样",
+      "dateSourceText": "10月17日",
+      "listedDuration": "02:58",
+      "url": "https://www.bilibili.com/video/BV1T1p26BEPi/",
+      "mechanism": "同色块去背景对照、棋盘阴影与标注定位",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        28.937069,
+        82.935504,
+        135.558921
+      ],
+      "contactSheet": "BV1T1p26BEPi.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 28.937069,
+          "mediaDurationSeconds": 178
+        },
+        {
+          "label": "b",
+          "timeSeconds": 82.935504,
+          "mediaDurationSeconds": 178
+        },
+        {
+          "label": "c",
+          "timeSeconds": 135.558921,
+          "mediaDurationSeconds": 177
+        }
+      ]
+    },
+    {
+      "id": "W078",
+      "author": "万有引言",
+      "bv": "BV121p26qEvw",
+      "title": "Vibe知识大赏 | 少卖1箱，工厂为何多产千箱",
+      "dateSourceText": "10月17日",
+      "listedDuration": "02:53",
+      "url": "https://www.bilibili.com/video/BV121p26qEvw/",
+      "mechanism": "供应链多阶段、订单曲线与运输延迟联动",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        28.273558,
+        80.457657,
+        131.773808
+      ],
+      "contactSheet": "BV121p26qEvw.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 28.273558,
+          "mediaDurationSeconds": 173
+        },
+        {
+          "label": "b",
+          "timeSeconds": 80.457657,
+          "mediaDurationSeconds": 173
+        },
+        {
+          "label": "c",
+          "timeSeconds": 131.773808,
+          "mediaDurationSeconds": 172
+        }
+      ]
+    },
+    {
+      "id": "W079",
+      "author": "万有引言",
+      "bv": "BV121p26qEr7",
+      "title": "Vibe知识大赏 | 公交10分钟一班为何等更久",
+      "dateSourceText": "10月16日",
+      "listedDuration": "02:56",
+      "url": "https://www.bilibili.com/video/BV121p26qEr7/",
+      "mechanism": "事件间隔、按人加权均值与变异系数曲线",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        28.677319,
+        81.48588,
+        134.287177
+      ],
+      "contactSheet": "BV121p26qEr7.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 28.677319,
+          "mediaDurationSeconds": 176
+        },
+        {
+          "label": "b",
+          "timeSeconds": 81.48588,
+          "mediaDurationSeconds": 176
+        },
+        {
+          "label": "c",
+          "timeSeconds": 134.287177,
+          "mediaDurationSeconds": 175.9
+        }
+      ]
+    },
+    {
+      "id": "W080",
+      "author": "万有引言",
+      "bv": "BV121p26qE6z",
+      "title": "Vibe知识大赏 | 准确率99%，你却多半没病",
+      "dateSourceText": "10月16日",
+      "listedDuration": "02:55",
+      "url": "https://www.bilibili.com/video/BV121p26qE6z/",
+      "mechanism": "总体点阵、检测分群与基率条件概率联动",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        28.414819,
+        80.515903,
+        133.579957
+      ],
+      "contactSheet": "BV121p26qE6z.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 28.414819,
+          "mediaDurationSeconds": 175
+        },
+        {
+          "label": "b",
+          "timeSeconds": 80.515903,
+          "mediaDurationSeconds": 175
+        },
+        {
+          "label": "c",
+          "timeSeconds": 133.579957,
+          "mediaDurationSeconds": 174
+        }
+      ]
+    },
+    {
+      "id": "W081",
+      "author": "万有引言",
+      "bv": "BV1C9p26wE3z",
+      "title": "Vibe知识大赏 | 弹孔多的地方，该加固吗？",
+      "dateSourceText": "10月16日",
+      "listedDuration": "02:39",
+      "url": "https://www.bilibili.com/video/BV1C9p26wE3z/",
+      "mechanism": "样本筛选、轮廓内事件热区与可见群体对照",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        25.383859,
+        73.603579,
+        120.963812
+      ],
+      "contactSheet": "BV1C9p26wE3z.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 25.383859,
+          "mediaDurationSeconds": 159
+        },
+        {
+          "label": "b",
+          "timeSeconds": 73.603579,
+          "mediaDurationSeconds": 159
+        },
+        {
+          "label": "c",
+          "timeSeconds": 120.963812,
+          "mediaDurationSeconds": 158.9
+        }
+      ]
+    },
+    {
+      "id": "W082",
+      "author": "万有引言",
+      "bv": "BV1C9p26wECy",
+      "title": "Vibe知识大赏 | 没有大脑的黏菌修出铁路网",
+      "dateSourceText": "10月16日",
+      "listedDuration": "02:48",
+      "url": "https://www.bilibili.com/video/BV1C9p26wECy/",
+      "mechanism": "迷宫路径、实拍对照与流量驱动边粗细变化",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        27.424843,
+        77.819584,
+        128.04312
+      ],
+      "contactSheet": "BV1C9p26wECy.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 27.424843,
+          "mediaDurationSeconds": 168
+        },
+        {
+          "label": "b",
+          "timeSeconds": 77.819584,
+          "mediaDurationSeconds": 168
+        },
+        {
+          "label": "c",
+          "timeSeconds": 128.04312,
+          "mediaDurationSeconds": 167.999999
+        }
+      ]
+    },
+    {
+      "id": "W083",
+      "author": "万有引言",
+      "bv": "BV1A9p26AEde",
+      "title": "Vibe知识大赏 | 没人想隔离，城市却分裂了",
+      "dateSourceText": "10月16日",
+      "listedDuration": "02:56",
+      "url": "https://www.bilibili.com/video/BV1A9p26AEde/",
+      "mechanism": "邻域阈值、网格迁居与宏观聚集结构对应",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        28.670757,
+        81.339996,
+        134.0264
+      ],
+      "contactSheet": "BV1A9p26AEde.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 28.670757,
+          "mediaDurationSeconds": 176
+        },
+        {
+          "label": "b",
+          "timeSeconds": 81.339996,
+          "mediaDurationSeconds": 176
+        },
+        {
+          "label": "c",
+          "timeSeconds": 134.0264,
+          "mediaDurationSeconds": 175.999999
+        }
+      ]
+    },
+    {
+      "id": "W084",
+      "author": "万有引言",
+      "bv": "BV1P9p26AENF",
+      "title": "Vibe知识大赏 | 诺奖：生命为何只用左手",
+      "dateSourceText": "10月16日",
+      "listedDuration": "02:57",
+      "url": "https://www.bilibili.com/video/BV1P9p26AENF/",
+      "mechanism": "镜像球棍结构、反应环步骤与催化扩增符号",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        28.94324,
+        81.867822,
+        134.991869
+      ],
+      "contactSheet": "BV1P9p26AENF.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 28.94324,
+          "mediaDurationSeconds": 177
+        },
+        {
+          "label": "b",
+          "timeSeconds": 81.867822,
+          "mediaDurationSeconds": 177
+        },
+        {
+          "label": "c",
+          "timeSeconds": 134.991869,
+          "mediaDurationSeconds": 176.5
+        }
+      ]
+    },
+    {
+      "id": "W085",
+      "author": "万有引言",
+      "bv": "BV1C9p26wE21",
+      "title": "Vibe知识大赏 | 没出事故，高速为何突然堵",
+      "dateSourceText": "10月16日",
+      "listedDuration": "02:53",
+      "url": "https://www.bilibili.com/video/BV1C9p26wE21/",
+      "mechanism": "环路车辆、拥堵团与不同密度的双过程对照",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        28.20458,
+        80.009044,
+        131.572352
+      ],
+      "contactSheet": "BV1C9p26wE21.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 28.20458,
+          "mediaDurationSeconds": 173
+        },
+        {
+          "label": "b",
+          "timeSeconds": 80.009044,
+          "mediaDurationSeconds": 173
+        },
+        {
+          "label": "c",
+          "timeSeconds": 131.572352,
+          "mediaDurationSeconds": 172
+        }
+      ]
+    },
+    {
+      "id": "W086",
+      "author": "万有引言",
+      "bv": "BV1A9p26AEBy",
+      "title": "Vibe知识大赏 | 一块冰抓住宇宙幽灵，拿下2026诺奖",
+      "dateSourceText": "10月16日",
+      "listedDuration": "02:53",
+      "url": "https://www.bilibili.com/video/BV1A9p26AEBy/",
+      "mechanism": "粒子作用、介质散射路径与地球剖面方向筛选",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        27.928121,
+        80.158632,
+        131.847834
+      ],
+      "contactSheet": "BV1A9p26AEBy.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 27.928121,
+          "mediaDurationSeconds": 173
+        },
+        {
+          "label": "b",
+          "timeSeconds": 80.158632,
+          "mediaDurationSeconds": 173
+        },
+        {
+          "label": "c",
+          "timeSeconds": 131.847834,
+          "mediaDurationSeconds": 173
+        }
+      ]
+    },
+    {
+      "id": "W087",
+      "author": "万有引言",
+      "bv": "BV1wRp26aEXh",
+      "title": "Vibe知识大赏 | 交易全公平，钱却归了1人",
+      "dateSourceText": "10月16日",
+      "listedDuration": "02:53",
+      "url": "https://www.bilibili.com/video/BV1wRp26aEXh/",
+      "mechanism": "财富点阵、按比例交易与分布统计曲线联动",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        27.721696,
+        79.811795,
+        131.681835
+      ],
+      "contactSheet": "BV1wRp26aEXh.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 27.721696,
+          "mediaDurationSeconds": 173
+        },
+        {
+          "label": "b",
+          "timeSeconds": 79.811795,
+          "mediaDurationSeconds": 173
+        },
+        {
+          "label": "c",
+          "timeSeconds": 131.681835,
+          "mediaDurationSeconds": 172
+        }
+      ]
+    },
+    {
+      "id": "W088",
+      "author": "万有引言",
+      "bv": "BV1kRp26hEJQ",
+      "title": "Vibe知识大赏 | 一束光开关大脑，拿下诺奖",
+      "dateSourceText": "10月16日",
+      "listedDuration": "02:58",
+      "url": "https://www.bilibili.com/video/BV1kRp26hEJQ/",
+      "mechanism": "生物形态资产、神经网络亮点与光照目标定位",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        28.697345,
+        82.315242,
+        135.520658
+      ],
+      "contactSheet": "BV1kRp26hEJQ.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 28.697345,
+          "mediaDurationSeconds": 178
+        },
+        {
+          "label": "b",
+          "timeSeconds": 82.315242,
+          "mediaDurationSeconds": 178
+        },
+        {
+          "label": "c",
+          "timeSeconds": 135.520658,
+          "mediaDurationSeconds": 177.4
+        }
+      ]
+    },
+    {
+      "id": "W089",
+      "author": "万有引言",
+      "bv": "BV1CRp26hEcP",
+      "title": "Vibe知识大赏 | 枪法最差的人为何活得最久",
+      "dateSourceText": "10月16日",
+      "listedDuration": "02:58",
+      "url": "https://www.bilibili.com/video/BV1CRp26hEcP/",
+      "mechanism": "三方轮次状态、策略分支与重复试验存活率",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        28.13104,
+        82.016046,
+        133.962402
+      ],
+      "contactSheet": "BV1CRp26hEcP.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 28.13104,
+          "mediaDurationSeconds": 178
+        },
+        {
+          "label": "b",
+          "timeSeconds": 82.016046,
+          "mediaDurationSeconds": 178
+        },
+        {
+          "label": "c",
+          "timeSeconds": 133.962402,
+          "mediaDurationSeconds": 178
+        }
+      ]
+    },
+    {
+      "id": "W090",
+      "author": "万有引言",
+      "bv": "BV1kRp26hEXR",
+      "title": "Vibe知识大赏 | 同一个画面，21种画风",
+      "dateSourceText": "10月16日",
+      "listedDuration": "02:40",
+      "url": "https://www.bilibili.com/video/BV1kRp26hEXR/",
+      "mechanism": "固定场景锚点、材质纹理与风格预设切换",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        25.959147,
+        74.104671,
+        122.5949
+      ],
+      "contactSheet": "BV1kRp26hEXR.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 25.959147,
+          "mediaDurationSeconds": 160
+        },
+        {
+          "label": "b",
+          "timeSeconds": 74.104671,
+          "mediaDurationSeconds": 160
+        },
+        {
+          "label": "c",
+          "timeSeconds": 122.5949,
+          "mediaDurationSeconds": 160
+        }
+      ]
+    },
+    {
+      "id": "W091",
+      "author": "万有引言",
+      "bv": "BV1kRp26hEsD",
+      "title": "Vibe知识大赏 | 有个问题，电脑永远答不出",
+      "dateSourceText": "10月16日",
+      "listedDuration": "03:04",
+      "url": "https://www.bilibili.com/video/BV1kRp26hEsD/",
+      "mechanism": "纸带读写头、规则表高亮与机器状态嵌套",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        29.262755,
+        84.34554,
+        139.363309
+      ],
+      "contactSheet": "BV1kRp26hEsD.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 29.262755,
+          "mediaDurationSeconds": 184
+        },
+        {
+          "label": "b",
+          "timeSeconds": 84.34554,
+          "mediaDurationSeconds": 184
+        },
+        {
+          "label": "c",
+          "timeSeconds": 139.363309,
+          "mediaDurationSeconds": 184
+        }
+      ]
+    },
+    {
+      "id": "W092",
+      "author": "万有引言",
+      "bv": "BV1ARp26aE5P",
+      "title": "Vibe知识大赏 | 从A到B，自然只挑这条路",
+      "dateSourceText": "10月16日",
+      "listedDuration": "03:06",
+      "url": "https://www.bilibili.com/video/BV1ARp26aE5P/",
+      "mechanism": "候选路径、分层介质与代价曲线及相位示意",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        29.763474,
+        86.05498,
+        141.473823
+      ],
+      "contactSheet": "BV1ARp26aE5P.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 29.763474,
+          "mediaDurationSeconds": 186
+        },
+        {
+          "label": "b",
+          "timeSeconds": 86.05498,
+          "mediaDurationSeconds": 186
+        },
+        {
+          "label": "c",
+          "timeSeconds": 141.473823,
+          "mediaDurationSeconds": 185.599999
+        }
+      ]
+    },
+    {
+      "id": "W093",
+      "author": "万有引言",
+      "bv": "BV11Dp26PEFY",
+      "title": "Vibe知识大赏 | 两家奶茶店为何总开在隔壁",
+      "dateSourceText": "10月15日",
+      "listedDuration": "02:40",
+      "url": "https://www.bilibili.com/video/BV11Dp26PEFY/",
+      "mechanism": "商家位置、最近服务分区与市场份额对应",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        25.423092,
+        73.821803,
+        121.921343
+      ],
+      "contactSheet": "BV11Dp26PEFY.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 25.423092,
+          "mediaDurationSeconds": 160
+        },
+        {
+          "label": "b",
+          "timeSeconds": 73.821803,
+          "mediaDurationSeconds": 160
+        },
+        {
+          "label": "c",
+          "timeSeconds": 121.921343,
+          "mediaDurationSeconds": 159.999999
+        }
+      ]
+    },
+    {
+      "id": "W094",
+      "author": "万有引言",
+      "bv": "BV1NDp26NE5Z",
+      "title": "Vibe知识大赏 | 一个电子，竟同时穿两条缝",
+      "dateSourceText": "10月15日",
+      "listedDuration": "03:00",
+      "url": "https://www.bilibili.com/video/BV1NDp26NE5Z/",
+      "mechanism": "波包与概率包络、双缝波场和离散能级表面",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        28.917,
+        83.173074,
+        137.240419
+      ],
+      "contactSheet": "BV1NDp26NE5Z.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 28.917,
+          "mediaDurationSeconds": 180
+        },
+        {
+          "label": "b",
+          "timeSeconds": 83.173074,
+          "mediaDurationSeconds": 180
+        },
+        {
+          "label": "c",
+          "timeSeconds": 137.240419,
+          "mediaDurationSeconds": 179.98933
+        }
+      ]
+    },
+    {
+      "id": "W095",
+      "author": "万有引言",
+      "bv": "BV1Qvp265Ekh",
+      "title": "Vibe知识大赏 | 英国海岸线，为何越量越长",
+      "dateSourceText": "10月15日",
+      "listedDuration": "04:16",
+      "url": "https://www.bilibili.com/video/BV1Qvp265Ekh/",
+      "mechanism": "沿轮廓步进测量、尺度计数与迭代分形扩展",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        32.821192,
+        94.281452,
+        155.356375,
+        209.981216
+      ],
+      "contactSheet": "BV1Qvp265Ekh.jpg",
+      "sampleCount": 4,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 32.821192,
+          "mediaDurationSeconds": 256
+        },
+        {
+          "label": "b",
+          "timeSeconds": 94.281452,
+          "mediaDurationSeconds": 256
+        },
+        {
+          "label": "c",
+          "timeSeconds": 155.356375,
+          "mediaDurationSeconds": 256
+        },
+        {
+          "label": "d",
+          "timeSeconds": 209.981216,
+          "mediaDurationSeconds": 256
+        }
+      ]
+    },
+    {
+      "id": "W096",
+      "author": "万有引言",
+      "bv": "BV1Qvp265Eqd",
+      "title": "Vibe知识大赏 | 甜甜圈和咖啡杯竟是一回事",
+      "dateSourceText": "10月15日",
+      "listedDuration": "02:56",
+      "url": "https://www.bilibili.com/video/BV1Qvp265Eqd/",
+      "mechanism": "形变操作标记、孔洞锚点与同拓扑形态对照",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        28.502278,
+        81.0213,
+        134.100847
+      ],
+      "contactSheet": "BV1Qvp265Eqd.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 28.502278,
+          "mediaDurationSeconds": 176
+        },
+        {
+          "label": "b",
+          "timeSeconds": 81.0213,
+          "mediaDurationSeconds": 176
+        },
+        {
+          "label": "c",
+          "timeSeconds": 134.100847,
+          "mediaDurationSeconds": 175
+        }
+      ]
+    },
+    {
+      "id": "W097",
+      "author": "万有引言",
+      "bv": "BV1aip26yEGL",
+      "title": "没有指挥，鸟群、蚁群、大脑为何井然有序？| 涌现与自组织",
+      "dateSourceText": "10月15日",
+      "listedDuration": "03:22",
+      "url": "https://www.bilibili.com/video/BV1aip26yEGL/",
+      "mechanism": "鸟群邻域三规则、蚁路强化与反应扩散场",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        32.578366,
+        93.285309,
+        153.883011
+      ],
+      "contactSheet": "BV1aip26yEGL.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 32.578366,
+          "mediaDurationSeconds": 202
+        },
+        {
+          "label": "b",
+          "timeSeconds": 93.285309,
+          "mediaDurationSeconds": 202
+        },
+        {
+          "label": "c",
+          "timeSeconds": 153.883011,
+          "mediaDurationSeconds": 202
+        }
+      ]
+    },
+    {
+      "id": "W098",
+      "author": "万有引言",
+      "bv": "BV1Qip26CEFD",
+      "title": "一只蝴蝶扇动翅膀，能掀起一场风暴吗？｜4 分钟看懂混沌、蝴蝶效应与三体问题",
+      "dateSourceText": "10月15日",
+      "listedDuration": "03:58",
+      "url": "https://www.bilibili.com/video/BV1Qip26CEFD/",
+      "mechanism": "微扰轨迹束、分岔图放大与球面流线示意",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        37.862246,
+        108.55589,
+        178.841272
+      ],
+      "contactSheet": "BV1Qip26CEFD.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 37.862246,
+          "mediaDurationSeconds": 238
+        },
+        {
+          "label": "b",
+          "timeSeconds": 108.55589,
+          "mediaDurationSeconds": 238
+        },
+        {
+          "label": "c",
+          "timeSeconds": 178.841272,
+          "mediaDurationSeconds": 238
+        }
+      ]
+    },
+    {
+      "id": "W099",
+      "author": "万有引言",
+      "bv": "BV13ip26yECd",
+      "title": "Vibe知识大赏 | 线性代数，原来这么美",
+      "dateSourceText": "10月15日",
+      "listedDuration": "03:51",
+      "url": "https://www.bilibili.com/video/BV13ip26yECd/",
+      "mechanism": "矩阵—网格映射、彩色点集与矩阵运算图块",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        40.486267,
+        109.885027,
+        173.285195
+      ],
+      "contactSheet": "BV13ip26yECd.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 40.486267,
+          "mediaDurationSeconds": 231
+        },
+        {
+          "label": "b",
+          "timeSeconds": 109.885027,
+          "mediaDurationSeconds": 231
+        },
+        {
+          "label": "c",
+          "timeSeconds": 173.285195,
+          "mediaDurationSeconds": 231
+        }
+      ]
+    },
+    {
+      "id": "W100",
+      "author": "万有引言",
+      "bv": "BV1pipm6YEBD",
+      "title": "Vibe知识大赏 | 雪花各不相同却都是六边形",
+      "dateSourceText": "10月14日",
+      "listedDuration": "02:58",
+      "url": "https://www.bilibili.com/video/BV1pipm6YEBD/",
+      "mechanism": "分子六角连接、六邻域扩散与环境历程对照",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimePrecision": "actual_media_metadata",
+      "sampleTimesSeconds": [
+        27.020814,
+        80.135809,
+        133.816618
+      ],
+      "contactSheet": "BV1pipm6YEBD.jpg",
+      "sampleCount": 3,
+      "samples": [
+        {
+          "label": "a",
+          "timeSeconds": 27.020814,
+          "mediaDurationSeconds": 178
+        },
+        {
+          "label": "b",
+          "timeSeconds": 80.135809,
+          "mediaDurationSeconds": 178
+        },
+        {
+          "label": "c",
+          "timeSeconds": 133.816618,
+          "mediaDurationSeconds": 178
+        }
+      ]
+    }
+  ]
+}

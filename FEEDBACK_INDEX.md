@@ -1,10 +1,12 @@
 # 反馈总表
 
-整理日期：2026-11-08。状态按最近一次有依据的记录填写；“历史待复测”不能解释为当前必现故障。维护者可引用稳定ID登记修复，再按验收场景补充复测结果。
+整理日期：2026-11-09。状态按最近一次有依据的记录填写；“历史待复测”不能解释为当前必现故障。维护者可引用稳定ID登记修复，再按验收场景补充复测结果。
 
 跟踪入口：[视频 #1](https://github.com/zmhhaha/panghu-service-feedback/issues/1) · [PPT #2](https://github.com/zmhhaha/panghu-service-feedback/issues/2) · [科研 #3](https://github.com/zmhhaha/panghu-service-feedback/issues/3)。共34项跟踪条目，包含部分复测通过、待优化、建议或历史待复测，另保留已修复历史记录。
 
 ## 视频服务
+
+2026-11-09补齐[万有引言100条动画能力研究](services/video-service/animation-capability-wanyou-study-2026-11-09.md)，有逐视频索引、98张取样拼图、18组候选及8张实验卡；与[此前两位UP57条](services/video-service/animation-capability-full-study-2026-11-09.md)合计157个不同视频。按播放器截图抽样，区分新增与复用；这是候选设计，不新增服务故障条目，也不代表实验台已经实现。
 
 2026-11-08新增[动画实验与标注页面体验](services/video-service/animations-review-2026-11-08.md)：4组固定样例已播放，7条站内反馈已保存；身份追踪能力实验仍仅有定义。排序交换遮挡、预览可读性和三维引导单独记录，不用固定样例表现关闭下方生产制作条目。
 
