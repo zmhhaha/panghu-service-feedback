@@ -1,6 +1,6 @@
 # Panghu 服务用户反馈
 
-集中整理 **2026-10-30～2026-11-06** 同一次使用会话中，对视频、PPT、科研服务的真实体验、产物评价和优化建议。由用户授权整理发布，供各服务维护者直接阅读和跟踪。
+集中整理 **2026-10-30～2026-11-08** 同一次使用会话中，对视频、PPT、科研服务的真实体验、产物评价和优化建议。由用户授权整理发布，供各服务维护者直接阅读和跟踪。
 
 **这里同时保留问题和已经验证的改善。历史失败不代表当前仍失败，提案通过也不代表功能已实现。**
 
@@ -8,7 +8,8 @@
 
 | 服务 | 最近一次实际体验 | 当前结论 | 评价入口 |
 |---|---|---|---|
-| [视频服务](https://video-service.panghuer.top/) | 2026-11-06（两次） | 白天取得原生完整有声草稿2:41；晚间新题材5镜中4镜成功，第3镜图解过密致整片失败；状态同步与图解预算待改 | [视频评价与15项跟踪](services/video-service/README.md) · [11月6日实测](services/video-service/retest-2026-11-06.md) · [晚间实测](services/video-service/retest-2026-11-06-https.md) |
+| [视频服务](https://video-service.panghuer.top/) | 2026-11-07 | HTTPS题材重跑取得204秒原生有声草稿；重新生成不保证排版更好，正式导出未验收 | [视频评价与16项跟踪](services/video-service/README.md) · [DSH实测](services/video-service/retest-2026-11-06.md) · [HTTPS实测及重跑](services/video-service/retest-2026-11-06-https.md) |
+| [视频动画实验页](https://video-service.panghuer.top/dev/animations/#experiment-identity-tracking) | 2026-11-08 | 4组固定样例已播放并保存7条反馈；身份追踪能力实验仍无作品，排序交换存在遮挡 | [开发评测台体验与建议](services/video-service/animations-review-2026-11-08.md) |
 | [PPT服务](https://ppt-service.panghuer.top/) | 2026-11-03 | 原生PPTX下载及最终渲染预览已可用；新版多页仍有断词、重叠和出框 | [最新评价](services/ppt-service/README.md) · [历史修复](services/ppt-service/history.md) |
 | [科研服务](https://scientific-agent.panghuer.top/) | 2026-11-04 | 原生生成、修订、定稿已走通；关键资料获取、需求保留、精炼与导出仍需优化 | [最新评价](services/scientific-agent/README.md) · [历史修复](services/scientific-agent/history.md) |
 | [OpenSpec](https://openspec.panghuer.top/) | 2026-10-30 | 已用于保存视频音频提案；没有独立、完整的服务评测 | [反馈渠道使用记录](services/openspec/README.md) |
@@ -59,4 +60,4 @@
 
 这是使用记录与评价仓库，包含普通页面操作、下载产物检查以及明确标记的用户修复报告；不是服务端审计或全面质量认证。公开归档保留必要事实与复现条件，完整会话、内部任务记录及研究原稿没有作为评价附件发布。
 
-最后整理：**2026-11-06**。服务之后可能继续变化，请以各条目的最新复测日期为准。
+最后整理：**2026-11-08**。服务之后可能继续变化，请以各条目的最新复测日期为准。

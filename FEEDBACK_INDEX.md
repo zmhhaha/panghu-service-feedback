@@ -1,10 +1,12 @@
 # 反馈总表
 
-整理日期：2026-11-06。状态按最近一次有依据的记录填写；“历史待复测”不能解释为当前必现故障。维护者可引用稳定ID登记修复，再按验收场景补充复测结果。
+整理日期：2026-11-08。状态按最近一次有依据的记录填写；“历史待复测”不能解释为当前必现故障。维护者可引用稳定ID登记修复，再按验收场景补充复测结果。
 
 跟踪入口：[视频 #1](https://github.com/zmhhaha/panghu-service-feedback/issues/1) · [PPT #2](https://github.com/zmhhaha/panghu-service-feedback/issues/2) · [科研 #3](https://github.com/zmhhaha/panghu-service-feedback/issues/3)。共34项跟踪条目，包含部分复测通过、待优化、建议或历史待复测，另保留已修复历史记录。
 
 ## 视频服务
+
+2026-11-08新增[动画实验与标注页面体验](services/video-service/animations-review-2026-11-08.md)：4组固定样例已播放，7条站内反馈已保存；身份追踪能力实验仍仅有定义。排序交换遮挡、预览可读性和三维引导单独记录，不用固定样例表现关闭下方生产制作条目。
 
 最近体验2026-11-06，详见[本次实测](services/video-service/retest-2026-11-06.md)。首批15项中13项成功，5图解、5配音成功，3/5镜头草稿成功；第1、4镜按具体失败提示简化图解后恢复，保留原配音。18:36取得[原生完整有声草稿](evidence/video-2026-11-06/DSH-runtime-cycle-native-draft.mp4)，2:41、720p/24fps，站内完整播放与全文件解码通过；正式导出、主观试听与人工精确校时未完成。[11月4日实测](services/video-service/retest-2026-11-04.md)和10月30日历史观察保留。
 

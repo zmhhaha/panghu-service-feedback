@@ -70,3 +70,11 @@
 - 对应[二次重跑一节](../services/video-service/retest-2026-11-06-https.md#2026-11-07-二次重跑五个分镜全部重生成)与[VID-015](../services/video-service/README.md#vid-015)。
 
 本版证明“重新生成”可以整体重制，但画面并不必然更好：第3镜退步、第2镜重生成失败、第4镜仍有拆词与重叠、第5镜末帧仍空。两版整片同时保留供对比。
+
+## 2026-11-08 动画实验与标注页面
+
+- 目录：`animations-2026-11-08/`，均为正常浏览器页面截图，原样复制，未改字、重绘或修正排版；不含生产项目侧栏或账户信息。
+- `identity-experiment.jpg`：指定身份追踪实验刷新后仍为“实验定义 · 未运行”“尚无产物”。
+- `selection-sort-first-swap.jpg`：排序固定样例4.000秒A/B对比，展示A的完全重叠和B的部分交叠；`selection-sort-final.jpg`为21.958秒末帧，最终顺序正确，不能将前者解释成排序逻辑错误。
+- `recheck-final-comparison.jpg`：复检固定样例23.958秒A/B对比，显示返回路径布局差异；`assembly-cut-checkpoint.jpg`为三维装配样例10.500秒剖切检查点，不能单凭该帧判定剖切功能失效。
+- 详见[动画实验页实测](../services/video-service/animations-review-2026-11-08.md)。这些是无旁白固定回归样例及开发评测台的证据，不是新生成的能力实验作品、生产MP4或真实配音同步验收。
