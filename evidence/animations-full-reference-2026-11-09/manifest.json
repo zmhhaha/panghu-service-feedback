@@ -1,0 +1,1088 @@
+{
+  "observedDate": "2026-11-09",
+  "timezone": "Asia/Shanghai",
+  "method": "player_screenshot_sampling_not_full_video_watch",
+  "scope": {
+    "bitPublicUploads": 26,
+    "chipUploadsAfter2026_10_01": 31,
+    "chipAllUploadListCount": 59,
+    "chipExcludedBoundaryDate": "2026-09-18"
+  },
+  "newVideoCount": 39,
+  "newSamplePositionCount": 140,
+  "reusedVideoCount": 18,
+  "videos": [
+    {
+      "id": "B01",
+      "author": "比特新语",
+      "bv": "BV1ot4z66EvR",
+      "title": "《压缩即理解》 | 记住只能复述，理解能够预言。",
+      "publishedDate": "2026-11-06",
+      "dateSourceText": "3天前",
+      "listedDuration": "03:08",
+      "url": "https://www.bilibili.com/video/BV1ot4z66EvR/",
+      "evidenceStatus": "reused_prior_observation",
+      "sampleTimesSeconds": [
+        55,
+        93,
+        106
+      ],
+      "sampleTimePrecision": "approximate_seconds",
+      "sampleCount": 3,
+      "priorReport": "../../services/video-service/animation-capability-expanded-study-2026-11-09.md"
+    },
+    {
+      "id": "B02",
+      "author": "比特新语",
+      "bv": "BV1q94h6DEH2",
+      "title": "物理最残忍，也最温柔：那些被TA引力拉走的自己，最后都会落回你心里。",
+      "publishedDate": "2026-11-05",
+      "dateSourceText": "11月5日",
+      "listedDuration": "01:03",
+      "url": "https://www.bilibili.com/video/BV1q94h6DEH2/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        6.363104,
+        21.568919,
+        38.546674
+      ],
+      "contactSheet": "BV1q94h6DEH2.jpg",
+      "sampleCount": 3
+    },
+    {
+      "id": "B03",
+      "author": "比特新语",
+      "bv": "BV1FP4b67ENN",
+      "title": "长安的世界主义：一个日本人，凭什么让李白为他写诗？",
+      "publishedDate": "2026-11-05",
+      "dateSourceText": "11月5日",
+      "listedDuration": "04:21",
+      "url": "https://www.bilibili.com/video/BV1FP4b67ENN/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        26.29254,
+        88.816303,
+        159.180173
+      ],
+      "contactSheet": "BV1FP4b67ENN.jpg",
+      "sampleCount": 3
+    },
+    {
+      "id": "B04",
+      "author": "比特新语",
+      "bv": "BV1nZxJ6xESS",
+      "title": "它被称为终成眷属的算法",
+      "publishedDate": "2026-11-01",
+      "dateSourceText": "11月1日",
+      "listedDuration": "02:42",
+      "url": "https://www.bilibili.com/video/BV1nZxJ6xESS/",
+      "evidenceStatus": "reused_prior_observation",
+      "sampleTimesSeconds": [
+        26,
+        51,
+        90
+      ],
+      "sampleTimePrecision": "approximate_seconds",
+      "sampleCount": 3,
+      "priorReport": "../../services/video-service/animation-capability-expanded-study-2026-11-09.md"
+    },
+    {
+      "id": "B05",
+      "author": "比特新语",
+      "bv": "BV1Trx76bEVX",
+      "title": "《学鸟》｜道法术器是什么？",
+      "publishedDate": "2026-10-28",
+      "dateSourceText": "10月28日",
+      "listedDuration": "02:42",
+      "url": "https://www.bilibili.com/video/BV1Trx76bEVX/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        16.350311,
+        55.259709,
+        98.872031
+      ],
+      "contactSheet": "BV1Trx76bEVX.jpg",
+      "sampleCount": 3
+    },
+    {
+      "id": "B06",
+      "author": "比特新语",
+      "bv": "BV1NDnR6JEAX",
+      "title": "那一秒，宇宙只排一次",
+      "publishedDate": "2026-10-26",
+      "dateSourceText": "10月26日",
+      "listedDuration": "02:38",
+      "url": "https://www.bilibili.com/video/BV1NDnR6JEAX/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        15.889112,
+        53.775309,
+        96.575297
+      ],
+      "contactSheet": "BV1NDnR6JEAX.jpg",
+      "sampleCount": 3
+    },
+    {
+      "id": "B07",
+      "author": "比特新语",
+      "bv": "BV1Cmn865EyB",
+      "title": "《花洒下的顿悟》",
+      "publishedDate": "2026-10-23",
+      "dateSourceText": "10月23日",
+      "listedDuration": "02:14",
+      "url": "https://www.bilibili.com/video/BV1Cmn865EyB/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        13.557251,
+        45.749928,
+        81.760144
+      ],
+      "contactSheet": "BV1Cmn865EyB.jpg",
+      "sampleCount": 3
+    },
+    {
+      "id": "B08",
+      "author": "比特新语",
+      "bv": "BV14dnL6kEav",
+      "title": "《脑内擂台》你不用打赢它们，你可以改规则。",
+      "publishedDate": "2026-10-19",
+      "dateSourceText": "10月19日",
+      "listedDuration": "02:11",
+      "url": "https://www.bilibili.com/video/BV14dnL6kEav/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        13.149943,
+        44.584016,
+        79.940456
+      ],
+      "contactSheet": "BV14dnL6kEav.jpg",
+      "sampleCount": 3
+    },
+    {
+      "id": "B09",
+      "author": "比特新语",
+      "bv": "BV1qnJv65Eyn",
+      "title": "《接住》20 岁手里只有一样东西，你把它扔给谁了？",
+      "publishedDate": "2026-10-17",
+      "dateSourceText": "10月17日",
+      "listedDuration": "02:49",
+      "url": "https://www.bilibili.com/video/BV1qnJv65Eyn/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        17.057179,
+        57.572632,
+        103.17307
+      ],
+      "contactSheet": "BV1qnJv65Eyn.jpg",
+      "sampleCount": 3
+    },
+    {
+      "id": "B10",
+      "author": "比特新语",
+      "bv": "BV1WkJk6VEqA",
+      "title": "《剃刀 》每一个也许都要付钱：0.8⁵ = 33%",
+      "publishedDate": "2026-10-15",
+      "dateSourceText": "10月15日",
+      "listedDuration": "02:40",
+      "url": "https://www.bilibili.com/video/BV1WkJk6VEqA/",
+      "evidenceStatus": "reused_prior_observation",
+      "sampleTimesSeconds": [
+        16,
+        70,
+        98
+      ],
+      "sampleTimePrecision": "approximate_seconds",
+      "sampleCount": 3,
+      "priorReport": "../../services/video-service/animation-capability-expanded-study-2026-11-09.md"
+    },
+    {
+      "id": "B11",
+      "author": "比特新语",
+      "bv": "BV1VVpo6gEMw",
+      "title": "「我爱你」说到第 1000 遍，信息量几乎为零",
+      "publishedDate": "2026-10-12",
+      "dateSourceText": "10月12日",
+      "listedDuration": "02:44",
+      "url": "https://www.bilibili.com/video/BV1VVpo6gEMw/",
+      "evidenceStatus": "reused_prior_observation",
+      "sampleTimesSeconds": [
+        31,
+        56,
+        100
+      ],
+      "sampleTimePrecision": "approximate_seconds",
+      "sampleCount": 3,
+      "priorReport": "../../services/video-service/animation-capability-expanded-study-2026-11-09.md"
+    },
+    {
+      "id": "B12",
+      "author": "比特新语",
+      "bv": "BV1zVpJ6yEk6",
+      "title": "两个一模一样的地方之间，是不会起风的",
+      "publishedDate": "2026-10-11",
+      "dateSourceText": "10月11日",
+      "listedDuration": "02:42",
+      "url": "https://www.bilibili.com/video/BV1zVpJ6yEk6/",
+      "evidenceStatus": "reused_prior_observation",
+      "sampleTimesSeconds": [
+        16,
+        55,
+        99
+      ],
+      "sampleTimePrecision": "approximate_seconds",
+      "sampleCount": 3,
+      "priorReport": "../../services/video-service/animation-capability-expanded-study-2026-11-09.md"
+    },
+    {
+      "id": "B13",
+      "author": "比特新语",
+      "bv": "BV1iJpJ66EbF",
+      "title": "《上头》",
+      "publishedDate": "2026-10-11",
+      "dateSourceText": "10月11日",
+      "listedDuration": "02:42",
+      "url": "https://www.bilibili.com/video/BV1iJpJ66EbF/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        16.399052,
+        55.344904,
+        98.875803
+      ],
+      "contactSheet": "BV1iJpJ66EbF.jpg",
+      "sampleCount": 3
+    },
+    {
+      "id": "B14",
+      "author": "比特新语",
+      "bv": "BV1XWp76FEZR",
+      "title": "2026诺贝尔物理学奖，冰立方中微子",
+      "publishedDate": "2026-10-11",
+      "dateSourceText": "10月11日",
+      "listedDuration": "03:20",
+      "url": "https://www.bilibili.com/video/BV1XWp76FEZR/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        20.345369,
+        68.079257,
+        122.078749
+      ],
+      "contactSheet": "BV1XWp76FEZR.jpg",
+      "sampleCount": 3
+    },
+    {
+      "id": "B15",
+      "author": "比特新语",
+      "bv": "BV1u1p56EEDW",
+      "title": "看懂了熵增 ，就原谅了生活所有的力不从心，房间不打扫，就会落满灰； 城市没有人，就会退回森林； 一段感情不去管它，就会变冷。",
+      "publishedDate": "2026-10-11",
+      "dateSourceText": "10月11日",
+      "listedDuration": "02:51",
+      "url": "https://www.bilibili.com/video/BV1u1p56EEDW/",
+      "evidenceStatus": "reused_prior_observation",
+      "sampleTimesSeconds": [
+        31,
+        72,
+        119
+      ],
+      "sampleTimePrecision": "approximate_seconds",
+      "sampleCount": 3,
+      "priorReport": "../../services/video-service/animation-capability-expanded-study-2026-11-09.md"
+    },
+    {
+      "id": "B16",
+      "author": "比特新语",
+      "bv": "BV14mpv6qEEf",
+      "title": "同一个分子，照一下镜子，药就成了毒｜2026诺贝尔化学奖",
+      "publishedDate": "2026-10-10",
+      "dateSourceText": "10月10日",
+      "listedDuration": "02:40",
+      "url": "https://www.bilibili.com/video/BV14mpv6qEEf/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        16.439241,
+        54.812796,
+        97.607239
+      ],
+      "contactSheet": "BV14mpv6qEEf.jpg",
+      "sampleCount": 3
+    },
+    {
+      "id": "B17",
+      "author": "比特新语",
+      "bv": "BV1Fbpt6qEPq",
+      "title": "今年诺奖颁给了“大脑的开关”：光遗传学到底是什么",
+      "publishedDate": "2026-10-09",
+      "dateSourceText": "10月9日",
+      "listedDuration": "02:42",
+      "url": "https://www.bilibili.com/video/BV1Fbpt6qEPq/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        16.382178,
+        55.169435,
+        98.893495
+      ],
+      "contactSheet": "BV1Fbpt6qEPq.jpg",
+      "sampleCount": 3
+    },
+    {
+      "id": "B18",
+      "author": "比特新语",
+      "bv": "BV12DHQ61EhT",
+      "title": "《银牌的眼泪》｜最痛的，不是失败，是“差一点”",
+      "publishedDate": "2026-10-08",
+      "dateSourceText": "10月8日",
+      "listedDuration": "02:42",
+      "url": "https://www.bilibili.com/video/BV12DHQ61EhT/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        16.426342,
+        55.272775,
+        98.92812
+      ],
+      "contactSheet": "BV12DHQ61EhT.jpg",
+      "sampleCount": 3
+    },
+    {
+      "id": "B19",
+      "author": "比特新语",
+      "bv": "BV1cvpF6fEoc",
+      "title": "刷分的捷径",
+      "publishedDate": "2026-10-06",
+      "dateSourceText": "10月6日",
+      "listedDuration": "02:42",
+      "url": "https://www.bilibili.com/video/BV1cvpF6fEoc/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        16.309609,
+        55.267316,
+        98.914772
+      ],
+      "contactSheet": "BV1cvpF6fEoc.jpg",
+      "sampleCount": 3
+    },
+    {
+      "id": "B20",
+      "author": "比特新语",
+      "bv": "BV1vXHr6eEoN",
+      "title": "《涌现》— 参数的史诗",
+      "publishedDate": "2026-10-04",
+      "dateSourceText": "10月4日",
+      "listedDuration": "02:42",
+      "url": "https://www.bilibili.com/video/BV1vXHr6eEoN/",
+      "evidenceStatus": "reused_prior_observation",
+      "sampleTimesSeconds": [
+        32,
+        55,
+        113
+      ],
+      "sampleTimePrecision": "approximate_seconds",
+      "sampleCount": 3,
+      "priorReport": "../../services/video-service/animation-capability-expanded-study-2026-11-09.md"
+    },
+    {
+      "id": "B21",
+      "author": "比特新语",
+      "bv": "BV1mgHh6pEuf",
+      "title": "你不是不理性，你只是只有一次人生，期望效用的陷阱",
+      "publishedDate": "2026-10-03",
+      "dateSourceText": "10月3日",
+      "listedDuration": "02:42",
+      "url": "https://www.bilibili.com/video/BV1mgHh6pEuf/",
+      "evidenceStatus": "reused_prior_observation",
+      "sampleTimesSeconds": [
+        16,
+        55,
+        113
+      ],
+      "sampleTimePrecision": "approximate_seconds",
+      "sampleCount": 3,
+      "priorReport": "../../services/video-service/animation-capability-expanded-study-2026-11-09.md"
+    },
+    {
+      "id": "B22",
+      "author": "比特新语",
+      "bv": "BV1ukHb6XE2H",
+      "title": "所有文明都酿酒，因为活着需要一点醉",
+      "publishedDate": "2026-10-03",
+      "dateSourceText": "10月3日",
+      "listedDuration": "02:42",
+      "url": "https://www.bilibili.com/video/BV1ukHb6XE2H/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        16.427823,
+        55.241067,
+        98.248946
+      ],
+      "contactSheet": "BV1ukHb6XE2H.jpg",
+      "sampleCount": 3
+    },
+    {
+      "id": "B23",
+      "author": "比特新语",
+      "bv": "BV1oya26rEH4",
+      "title": "你已经拼尽全力了，为什么还在原地？",
+      "publishedDate": "2026-10-02",
+      "dateSourceText": "10月2日",
+      "listedDuration": "02:44",
+      "url": "https://www.bilibili.com/video/BV1oya26rEH4/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        16.657099,
+        55.864506,
+        99.968932
+      ],
+      "contactSheet": "BV1oya26rEH4.jpg",
+      "sampleCount": 3
+    },
+    {
+      "id": "B24",
+      "author": "比特新语",
+      "bv": "BV1Kpa26dE9e",
+      "title": "《余波》| 吵架后的沉默，会传多远？",
+      "publishedDate": "2026-10-02",
+      "dateSourceText": "10月2日",
+      "listedDuration": "02:44",
+      "url": "https://www.bilibili.com/video/BV1Kpa26dE9e/",
+      "evidenceStatus": "reused_prior_observation",
+      "sampleTimesSeconds": [
+        31,
+        56,
+        114
+      ],
+      "sampleTimePrecision": "approximate_seconds",
+      "sampleCount": 3,
+      "priorReport": "../../services/video-service/animation-capability-expanded-study-2026-11-09.md"
+    },
+    {
+      "id": "B25",
+      "author": "比特新语",
+      "bv": "BV1X8a16wEGh",
+      "title": "以牙还牙",
+      "publishedDate": "2026-10-02",
+      "dateSourceText": "10月2日",
+      "listedDuration": "02:42",
+      "url": "https://www.bilibili.com/video/BV1X8a16wEGh/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        16.269023,
+        55.450877,
+        98.864537
+      ],
+      "contactSheet": "BV1X8a16wEGh.jpg",
+      "sampleCount": 3
+    },
+    {
+      "id": "B26",
+      "author": "比特新语",
+      "bv": "BV13Aa66LEAW",
+      "title": "什么是37法则？",
+      "publishedDate": "2026-10-01",
+      "dateSourceText": "10月1日",
+      "listedDuration": "02:44",
+      "url": "https://www.bilibili.com/video/BV13Aa66LEAW/",
+      "evidenceStatus": "reused_prior_observation",
+      "sampleTimesSeconds": [
+        17,
+        56,
+        100
+      ],
+      "sampleTimePrecision": "approximate_seconds",
+      "sampleCount": 3,
+      "priorReport": "../../services/video-service/animation-capability-expanded-study-2026-11-09.md"
+    },
+    {
+      "id": "C01",
+      "author": "辞月赴尘",
+      "bv": "BV1dMxn6mE5P",
+      "title": "康宁 vs 肖特：零膨胀玻璃 到底有多离谱",
+      "publishedDate": "2026-11-07",
+      "dateSourceText": "2天前",
+      "listedDuration": "41:45",
+      "url": "https://www.bilibili.com/video/BV1dMxn6mE5P/",
+      "evidenceStatus": "reused_prior_observation",
+      "sampleTimesSeconds": [
+        310,
+        730,
+        1216
+      ],
+      "sampleTimePrecision": "approximate_seconds",
+      "sampleCount": 3,
+      "priorReport": "../../services/video-service/animation-capability-expanded-study-2026-11-09.md"
+    },
+    {
+      "id": "C02",
+      "author": "辞月赴尘",
+      "bv": "BV1B4xy6XE3W",
+      "title": "一粒灰尘能毁掉一大片连接：混合键合难在哪",
+      "publishedDate": "2026-11-05",
+      "dateSourceText": "11月5日",
+      "listedDuration": "26:37",
+      "url": "https://www.bilibili.com/video/BV1B4xy6XE3W/",
+      "evidenceStatus": "reused_prior_observation",
+      "sampleTimesSeconds": [
+        207,
+        579,
+        974,
+        1339
+      ],
+      "sampleTimePrecision": "approximate_seconds",
+      "sampleCount": 4,
+      "priorReport": "../../services/video-service/animation-capability-expanded-study-2026-11-09.md"
+    },
+    {
+      "id": "C03",
+      "author": "辞月赴尘",
+      "bv": "BV1xQxy6iEaB",
+      "title": "9800X3D 里连一颗焊锡都没有：两颗芯片怎么“长”成一颗",
+      "publishedDate": "2026-11-03",
+      "dateSourceText": "11月3日",
+      "listedDuration": "32:59",
+      "url": "https://www.bilibili.com/video/BV1xQxy6iEaB/",
+      "evidenceStatus": "reused_prior_observation",
+      "sampleTimesSeconds": [
+        27,
+        329,
+        1200
+      ],
+      "sampleTimePrecision": "approximate_seconds",
+      "sampleCount": 3,
+      "priorReport": "../../services/video-service/animation-capability-expanded-study-2026-11-09.md"
+    },
+    {
+      "id": "C04",
+      "author": "辞月赴尘",
+      "bv": "BV1i3x16XEB3",
+      "title": "每 1000 亿个硅原子只许 1 个杂质：硅片是怎么做出来的",
+      "publishedDate": "2026-11-01",
+      "dateSourceText": "11月1日",
+      "listedDuration": "23:31",
+      "url": "https://www.bilibili.com/video/BV1i3x16XEB3/",
+      "evidenceStatus": "reused_prior_observation",
+      "sampleTimesSeconds": [
+        184,
+        513,
+        863
+      ],
+      "sampleTimePrecision": "approximate_seconds",
+      "sampleCount": 3,
+      "priorReport": "../../services/video-service/animation-capability-expanded-study-2026-11-09.md"
+    },
+    {
+      "id": "C05",
+      "author": "辞月赴尘",
+      "bv": "BV1WQxk6ZEzw",
+      "title": "一颗宇宙射线粒子，让智驾猛打方向盘：谁在那半秒里拦住了它？",
+      "publishedDate": "2026-10-31",
+      "dateSourceText": "10月31日",
+      "listedDuration": "24:44",
+      "url": "https://www.bilibili.com/video/BV1WQxk6ZEzw/",
+      "evidenceStatus": "reused_prior_observation",
+      "sampleTimesSeconds": [
+        192,
+        539,
+        891,
+        1246
+      ],
+      "sampleTimePrecision": "approximate_seconds",
+      "sampleCount": 4,
+      "priorReport": "../../services/video-service/animation-capability-expanded-study-2026-11-09.md"
+    },
+    {
+      "id": "C06",
+      "author": "辞月赴尘",
+      "bv": "BV1fVnt6fEFo",
+      "title": "中国芯片需要你（下）：中国芯片的八年博弈",
+      "publishedDate": "2026-10-27",
+      "dateSourceText": "10月27日",
+      "listedDuration": "21:55",
+      "url": "https://www.bilibili.com/video/BV1fVnt6fEFo/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        158.214155,
+        460.818478,
+        789.431094,
+        1078.500684
+      ],
+      "contactSheet": "BV1fVnt6fEFo.jpg",
+      "sampleCount": 4
+    },
+    {
+      "id": "C07",
+      "author": "辞月赴尘",
+      "bv": "BV1nXJY6yEMn",
+      "title": "内存是怎么工作的：拆开处理器等待的那 100 纳秒",
+      "publishedDate": "2026-10-25",
+      "dateSourceText": "10月25日",
+      "listedDuration": "16:11",
+      "url": "https://www.bilibili.com/video/BV1nXJY6yEMn/",
+      "evidenceStatus": "reused_prior_observation",
+      "sampleTimesSeconds": [
+        135,
+        355,
+        614,
+        822
+      ],
+      "sampleTimePrecision": "approximate_seconds",
+      "sampleCount": 4,
+      "priorReport": "../../services/video-service/animation-capability-expanded-study-2026-11-09.md"
+    },
+    {
+      "id": "C08",
+      "author": "辞月赴尘",
+      "bv": "BV1UDHg6eE2c",
+      "title": "黄仁勋该给梁文锋磕一个：我该不该买 RTX Spark？",
+      "publishedDate": "2026-10-25",
+      "dateSourceText": "10月25日",
+      "listedDuration": "11:40",
+      "url": "https://www.bilibili.com/video/BV1UDHg6eE2c/",
+      "evidenceStatus": "reused_prior_observation",
+      "sampleTimesSeconds": [
+        102,
+        260,
+        451,
+        600
+      ],
+      "sampleTimePrecision": "approximate_seconds",
+      "sampleCount": 4,
+      "priorReport": "../../services/video-service/animation-capability-expanded-study-2026-11-09.md"
+    },
+    {
+      "id": "C09",
+      "author": "辞月赴尘",
+      "bv": "BV1PanH6WE4o",
+      "title": "中国芯片需要你（续）：从填志愿到第一份工作，芯片这一行怎么入",
+      "publishedDate": "2026-10-24",
+      "dateSourceText": "10月24日",
+      "listedDuration": "28:33",
+      "url": "https://www.bilibili.com/video/BV1PanH6WE4o/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        206.059259,
+        600.185286,
+        1028.366828,
+        1404.839415
+      ],
+      "contactSheet": "BV1PanH6WE4o.jpg",
+      "sampleCount": 4
+    },
+    {
+      "id": "C10",
+      "author": "辞月赴尘",
+      "bv": "BV1icJe6uEa4",
+      "title": "GPU 和 CPU 到底哪里不一样：跟着 AI 吐出的一个字",
+      "publishedDate": "2026-10-23",
+      "dateSourceText": "10月23日",
+      "listedDuration": "16:59",
+      "url": "https://www.bilibili.com/video/BV1icJe6uEa4/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        122.611968,
+        357.041242,
+        611.848862,
+        835.77986
+      ],
+      "contactSheet": "BV1icJe6uEa4.jpg",
+      "sampleCount": 4
+    },
+    {
+      "id": "C11",
+      "author": "辞月赴尘",
+      "bv": "BV1xonm6wEWq",
+      "title": "中国芯片需要你",
+      "publishedDate": "2026-10-22",
+      "dateSourceText": "10月22日",
+      "listedDuration": "21:44",
+      "url": "https://www.bilibili.com/video/BV1xonm6wEWq/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        156.819655,
+        456.972423,
+        782.832036,
+        1069.381364
+      ],
+      "contactSheet": "BV1xonm6wEWq.jpg",
+      "sampleCount": 4
+    },
+    {
+      "id": "C12",
+      "author": "辞月赴尘",
+      "bv": "BV1EdJY6kEuS",
+      "title": "芯片到底是怎么“算”的：跟着一个 8，从按键走到屏幕",
+      "publishedDate": "2026-10-21",
+      "dateSourceText": "10月21日",
+      "listedDuration": "19:55",
+      "url": "https://www.bilibili.com/video/BV1EdJY6kEuS/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        143.767786,
+        418.822796,
+        717.428237,
+        980.092876
+      ],
+      "contactSheet": "BV1EdJY6kEuS.jpg",
+      "sampleCount": 4
+    },
+    {
+      "id": "C13",
+      "author": "辞月赴尘",
+      "bv": "BV14qJY6REtB",
+      "title": "同样 3 纳米、同样说 Arm：小米玄戒和苹果 A18 Pro，单核为什么差了一成",
+      "publishedDate": "2026-10-19",
+      "dateSourceText": "10月19日",
+      "listedDuration": "33:11",
+      "url": "https://www.bilibili.com/video/BV14qJY6REtB/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        239.435315,
+        697.634938,
+        1195.31536,
+        1632.813938
+      ],
+      "contactSheet": "BV14qJY6REtB.jpg",
+      "sampleCount": 4
+    },
+    {
+      "id": "C14",
+      "author": "辞月赴尘",
+      "bv": "BV1GPWw6QErn",
+      "title": "为什么 Arm 能打进服务器：从指令集讲起",
+      "publishedDate": "2026-10-17",
+      "dateSourceText": "10月17日",
+      "listedDuration": "27:31",
+      "url": "https://www.bilibili.com/video/BV1GPWw6QErn/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        198.506355,
+        578.461349,
+        991.174981,
+        1354.021767
+      ],
+      "contactSheet": "BV1GPWw6QErn.jpg",
+      "sampleCount": 4
+    },
+    {
+      "id": "C15",
+      "author": "辞月赴尘",
+      "bv": "BV1XcWw6XERW",
+      "title": "只有 5% 一次流片成功：一颗芯片是怎么设计出来的",
+      "publishedDate": "2026-10-16",
+      "dateSourceText": "10月16日",
+      "listedDuration": "31:02",
+      "url": "https://www.bilibili.com/video/BV1XcWw6XERW/",
+      "evidenceStatus": "reused_prior_observation",
+      "sampleTimesSeconds": [
+        238,
+        671,
+        1134,
+        1557
+      ],
+      "sampleTimePrecision": "approximate_seconds",
+      "sampleCount": 4,
+      "priorReport": "../../services/video-service/animation-capability-expanded-study-2026-11-09.md"
+    },
+    {
+      "id": "C16",
+      "author": "辞月赴尘",
+      "bv": "BV1ZwHt6cEQd",
+      "title": "缺货的不是 GPU，是 CPU：AI 学会“干活”之后，数据中心要怎么变",
+      "publishedDate": "2026-10-15",
+      "dateSourceText": "10月15日",
+      "listedDuration": "25:25",
+      "url": "https://www.bilibili.com/video/BV1ZwHt6cEQd/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        183.426612,
+        534.272729,
+        915.616923,
+        1250.614237
+      ],
+      "contactSheet": "BV1ZwHt6cEQd.jpg",
+      "sampleCount": 4
+    },
+    {
+      "id": "C17",
+      "author": "辞月赴尘",
+      "bv": "BV1fwHt6cE4v",
+      "title": "为什么只有一家公司造得出 EUV 光刻机",
+      "publishedDate": "2026-10-14",
+      "dateSourceText": "10月14日",
+      "listedDuration": "21:24",
+      "url": "https://www.bilibili.com/video/BV1fwHt6cE4v/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        154.371905,
+        539.828285,
+        770.911345,
+        1053.082564
+      ],
+      "contactSheet": "BV1fwHt6cE4v.jpg",
+      "sampleCount": 4
+    },
+    {
+      "id": "C18",
+      "author": "辞月赴尘",
+      "bv": "BV1coH46vEF2",
+      "title": "为什么 AI 芯片卡在“封装”上",
+      "publishedDate": "2026-10-13",
+      "dateSourceText": "10月13日",
+      "listedDuration": "22:36",
+      "url": "https://www.bilibili.com/video/BV1coH46vEF2/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        163.37556,
+        475.102545,
+        814.049792,
+        1112.105504
+      ],
+      "contactSheet": "BV1coH46vEF2.jpg",
+      "sampleCount": 4
+    },
+    {
+      "id": "C19",
+      "author": "辞月赴尘",
+      "bv": "BV1EwHt6wE55",
+      "title": "训练一个会“思考”的模型，算力花在哪",
+      "publishedDate": "2026-10-12",
+      "dateSourceText": "10月12日",
+      "listedDuration": "13:56",
+      "url": "https://www.bilibili.com/video/BV1EwHt6wE55/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        100.599263,
+        292.929209,
+        501.966477,
+        685.717694
+      ],
+      "contactSheet": "BV1EwHt6wE55.jpg",
+      "sampleCount": 4
+    },
+    {
+      "id": "C20",
+      "author": "辞月赴尘",
+      "bv": "BV1A5H76VE7M",
+      "title": "十万张卡，怎么一起干活：万卡训练的六秒钟",
+      "publishedDate": "2026-10-11",
+      "dateSourceText": "10月11日",
+      "listedDuration": "25:42",
+      "url": "https://www.bilibili.com/video/BV1A5H76VE7M/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        185.507378,
+        540.262667,
+        925.833074,
+        1264.661032
+      ],
+      "contactSheet": "BV1A5H76VE7M.jpg",
+      "sampleCount": 4
+    },
+    {
+      "id": "C21",
+      "author": "辞月赴尘",
+      "bv": "BV1fWH76KEpt",
+      "title": "AI 怎么“一次猜好几个字”：推测解码",
+      "publishedDate": "2026-10-10",
+      "dateSourceText": "10月10日",
+      "listedDuration": "22:29",
+      "url": "https://www.bilibili.com/video/BV1fWH76KEpt/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        162.352055,
+        472.632563,
+        809.984718,
+        1106.397578
+      ],
+      "contactSheet": "BV1fWH76KEpt.jpg",
+      "sampleCount": 4
+    },
+    {
+      "id": "C22",
+      "author": "辞月赴尘",
+      "bv": "BV1zHH76qE2K",
+      "title": "读问题和写答案，正在用两种芯片：预填充、解码与推理拆分",
+      "publishedDate": "2026-10-09",
+      "dateSourceText": "10月9日",
+      "listedDuration": "20:41",
+      "url": "https://www.bilibili.com/video/BV1zHH76qE2K/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        149.298019,
+        434.873677,
+        745.064117,
+        1017.835612
+      ],
+      "contactSheet": "BV1zHH76qE2K.jpg",
+      "sampleCount": 4
+    },
+    {
+      "id": "C23",
+      "author": "辞月赴尘",
+      "bv": "BV1pdH765EUC",
+      "title": "同样的字，“缓存命中”凭什么便宜九成？一期讲透 KV 缓存",
+      "publishedDate": "2026-10-08",
+      "dateSourceText": "10月8日",
+      "listedDuration": "17:11",
+      "url": "https://www.bilibili.com/video/BV1pdH765EUC/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        124.062069,
+        361.505481,
+        619.120597,
+        845.570404
+      ],
+      "contactSheet": "BV1pdH765EUC.jpg",
+      "sampleCount": 4
+    },
+    {
+      "id": "C24",
+      "author": "辞月赴尘",
+      "bv": "BV1fAHz6FEPq",
+      "title": "AI 为什么越算越粗糙：从 FP32 到 FP4",
+      "publishedDate": "2026-10-07",
+      "dateSourceText": "10月7日",
+      "listedDuration": "15:27",
+      "url": "https://www.bilibili.com/video/BV1fAHz6FEPq/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        111.55815,
+        324.94805,
+        556.548147,
+        760.400487
+      ],
+      "contactSheet": "BV1fAHz6FEPq.jpg",
+      "sampleCount": 4
+    },
+    {
+      "id": "C25",
+      "author": "辞月赴尘",
+      "bv": "BV16FHz6wELW",
+      "title": "华为昇腾超节点为什么要把 160 个机柜连成一台计算机",
+      "publishedDate": "2026-10-06",
+      "dateSourceText": "10月6日",
+      "listedDuration": "23:16",
+      "url": "https://www.bilibili.com/video/BV16FHz6wELW/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        167.979236,
+        489.275824,
+        838.119635,
+        1144.909416
+      ],
+      "contactSheet": "BV16FHz6wELW.jpg",
+      "sampleCount": 4
+    },
+    {
+      "id": "C26",
+      "author": "辞月赴尘",
+      "bv": "BV1M7Hv6NEJo",
+      "title": "CPO 量产了吗？博通三代、英伟达微环、台积电 COUPE，和光模块厂商的未来｜硬核拆解",
+      "publishedDate": "2026-10-05",
+      "dateSourceText": "10月5日",
+      "listedDuration": "17:04",
+      "url": "https://www.bilibili.com/video/BV1M7Hv6NEJo/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        123.118199,
+        358.745133,
+        614.740169,
+        839.802967
+      ],
+      "contactSheet": "BV1M7Hv6NEJo.jpg",
+      "sampleCount": 4
+    },
+    {
+      "id": "C27",
+      "author": "辞月赴尘",
+      "bv": "BV18GHv6qEYu",
+      "title": "把光搬进芯片（上）：CPO 与光学 I/O 的原理",
+      "publishedDate": "2026-10-05",
+      "dateSourceText": "10月5日",
+      "listedDuration": "15:56",
+      "url": "https://www.bilibili.com/video/BV18GHv6qEYu/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        114.951552,
+        334.988737,
+        574.058026,
+        784.067549
+      ],
+      "contactSheet": "BV18GHv6qEYu.jpg",
+      "sampleCount": 4
+    },
+    {
+      "id": "C28",
+      "author": "辞月赴尘",
+      "bv": "BV1xnHv6wErs",
+      "title": "用镜子做交换机：谷歌的光路交换（OCS）是怎么回事？",
+      "publishedDate": "2026-10-04",
+      "dateSourceText": "10月4日",
+      "listedDuration": "21:51",
+      "url": "https://www.bilibili.com/video/BV1xnHv6wErs/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        157.744725,
+        459.28605,
+        787.109973,
+        1075.156208
+      ],
+      "contactSheet": "BV1xnHv6wErs.jpg",
+      "sampleCount": 4
+    },
+    {
+      "id": "C29",
+      "author": "辞月赴尘",
+      "bv": "BV1aMHv6gEB2",
+      "title": "一条链路值多少钱？卖“修信号”芯片的公司，凭什么做到 75% 毛利｜Astera Labs",
+      "publishedDate": "2026-10-04",
+      "dateSourceText": "10月4日",
+      "listedDuration": "16:54",
+      "url": "https://www.bilibili.com/video/BV1aMHv6gEB2/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        121.917484,
+        355.363228,
+        608.821213,
+        831.589479
+      ],
+      "contactSheet": "BV1aMHv6gEB2.jpg",
+      "sampleCount": 4
+    },
+    {
+      "id": "C30",
+      "author": "辞月赴尘",
+      "bv": "BV17BHv6SEpi",
+      "title": "为什么高速信号跑不远？AI 服务器里那颗“指甲盖芯片”——重定时器原理",
+      "publishedDate": "2026-10-03",
+      "dateSourceText": "10月3日",
+      "listedDuration": "15:31",
+      "url": "https://www.bilibili.com/video/BV17BHv6SEpi/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        112.018396,
+        326.204179,
+        558.945991,
+        763.534228
+      ],
+      "contactSheet": "BV17BHv6SEpi.jpg",
+      "sampleCount": 4
+    },
+    {
+      "id": "C31",
+      "author": "辞月赴尘",
+      "bv": "BV143aQ6zEZo",
+      "title": "【4K AI短片】2分钟看完138亿年｜加速 ACCELERANDO",
+      "publishedDate": "2026-10-02",
+      "dateSourceText": "10月2日",
+      "listedDuration": "02:14",
+      "url": "https://www.bilibili.com/video/BV143aQ6zEZo/",
+      "evidenceStatus": "new_player_screenshot_sample",
+      "sampleTimesSeconds": [
+        16.331171,
+        47.194377,
+        80.700963,
+        109.95634
+      ],
+      "contactSheet": "BV143aQ6zEZo.jpg",
+      "sampleCount": 4
+    }
+  ]
+}
